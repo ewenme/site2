@@ -24,7 +24,7 @@ root: true
 <div class="photos">
   {% assign photos = site.data.photos | slice: 0, 5 %}
 {% for photo in photos %}
-  <a href="/photos#P{{ photo.id}}" class="image-link">
+  <a href="/photos#{{ photo.id}}" class="image-link">
     <picture>
       <source type="image/webp" srcset="{{ photo.path }}_400.webp" />
       <img

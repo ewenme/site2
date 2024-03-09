@@ -5,8 +5,8 @@ permalink: /photos.xml
 {% capture srcbase %}src="{{site.url}}/{% endcapture %}
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>@muan's photos</title>
-    <description>Photos.</description>
+    <title>ewen's photos</title>
+    <description>Photos</description>
     {% assign photos = site.data.photos | slice: 0, 10 %}
     <lastBuildDate>{{ photos.first.createdAt | date_to_rfc822 }}</lastBuildDate>
     <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
@@ -23,8 +23,8 @@ permalink: /photos.xml
           {{ content | xml_escape }}{{ openheart | xml_escape }}
         </description>
         <pubDate>{{ photo.createdAt | date_to_rfc822 }}</pubDate>
-        <link>{{ site.url }}/photos#P{{ photo.guid }}</link>
-        <guid isPermaLink="true">{{ site.url }}/photos#P{{ photo.guid }}</guid>
+        <link>{{ site.url }}/photos#{{ photo.id }}</link>
+        <guid isPermaLink="true">{{ site.url }}/photos#{{ photo.id }}</guid>
       </item>
     {% endfor %}
   </channel>
