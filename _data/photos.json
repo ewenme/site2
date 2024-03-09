@@ -1,10 +1,11 @@
 [ 
     { 
+        "id": "2024-03-09-e",
         "width": 1024, 
         "height": 1024, 
         "ratio": 1, 
         "orientation": "portrait", 
-        "path": "https://photos.ewen.io/2024-03-09-e.png", 
+        "path": "https://photos.ewen.io/2024-03-09-e", 
         "caption": "E!", 
         "alt": "a pink ecstasy pill", 
         "createdAt": "2024-03-09T13:44:09.000Z", 

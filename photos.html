@@ -7,10 +7,10 @@ title: Photos
 <div class="photos-wrapper" id="photos">
 {% assign photos = site.data.photos %}
 {% for photo in photos %}
-<figure class="figure-{{ photo.orientation }}">
-  <a href="{{ photo.path }}" class="image-link">
+<figure id="P{{ photo.id }}" class="figure-{{ photo.orientation }}">
+  <a href="{{ photo.path }}_original.jpg" class="image-link">
     <img 
-      src="{{ photo.path }}"
+      src="{{ photo.path }}_1280.jpg"
       height="{{ photo.height }}"
       style="aspect-ratio: {{ photo.ratio }}"
       alt="{{ photo.alt }}"
