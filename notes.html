@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Recent notes
-has_open_heart: true
 ---
 
 <ul class="notes">
@@ -13,11 +12,7 @@ has_open_heart: true
         <a href="{{ note.url }}" class="monospace">
           <h2 class="text"><u>{{ note.date | date: "%B %e, %Y" }}</u></h2>
         </a>
-        <open-heart class="text-open-heart monospace" href="https://likes.muan.dev/?id={{ note.url }}" emoji="❤️" aria-labelledby="like-prompt">
-          <span class="on">Liked ♥︎.</span><span class="off">Like?</span>
-        </open-heart>
       </div>
-      <a href="https://github.com/muan/site/edit/main/{{ note.path }}" class="monospace" tabindex="-1" aria-hidden="true">&nbsp;&nbsp;&nbsp;&nbsp;</a>
     </div>
     {{ note.content | markdownify }}
   </li>
