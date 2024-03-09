@@ -12,9 +12,6 @@ permalink: /photos.xml
     <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
     <link>{{ site.url }}/photos.xml</link>
     {% for photo in photos limit:10 %}
-      {% capture openheart %}
-        <br><a href="https://muan.co{% link _pages/like.html %}?id=photo-P{{ photo.guid }}">Like</a><br><small><a href="https://github.com/dddddddddzzzz/OpenHeart">(Backed by OpenHeart protocol)</a></small>
-      {% endcapture %}
       <item>
         <title>{{ photo.caption | markdownify | strip_html | xml_escape }}</title>
         <description>
