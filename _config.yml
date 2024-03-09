@@ -1,0 +1,16 @@
+title: Ewen
+description: Ewen's home page on the World Wide Web.
+url: https://ewen.io
+permalink: /posts/:title
+timezone: Europe/London
+kramdown:
+  hard_wrap: true
+sass:
+  sass_dir: assets
+  style: :compressed
+collections:
+  notes:
+    output: true
+  pages:
+    output: true
+include: [".well-known"]
