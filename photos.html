@@ -9,14 +9,17 @@ title: Photos
 {% for photo in photos %}
 <figure id="P{{ photo.id }}" class="figure-{{ photo.orientation }}">
   <a href="{{ photo.path }}_original.jpg" class="image-link">
-    <img 
-      src="{{ photo.path }}_1280.jpg"
+    <picture>
+      <source type="image/webp" srcset="{{ photo.path }}_2304.webp" />
+      <img
+      src="{{ photo.path }}_2304.jpg"
       height="{{ photo.height }}"
       style="aspect-ratio: {{ photo.ratio }}"
       alt="{{ photo.alt }}"
       title="{{ photo.alt }}"
       class="{{ photo.orientation }}"
-      loading="lazy">
+      loading="lazy"/>
+    </picture>
   </a>
   <figcaption>
     <div class="desc photo-metadata">

@@ -25,7 +25,14 @@ root: true
   {% assign photos = site.data.photos | slice: 0, 5 %}
 {% for photo in photos %}
   <a href="/photos#P{{ photo.id}}" class="image-link">
-    <img src="{{ photo.path }}_128.jpg" height="128" alt="{{ photo.alt }}" loading="lazy" style="aspect-ratio: {{ photo.ratio }};">
+    <picture>
+      <source type="image/webp" srcset="{{ photo.path }}_400.webp" />
+      <img
+        src="{{ photo.path }}_400.jpg"
+        height="200" 
+        alt="{{ photo.alt }}"
+        loading="lazy" style="aspect-ratio: {{ photo.ratio }};" />
+    </picture>
   </a>
 {% endfor %}
 </div>
