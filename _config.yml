@@ -9,6 +9,8 @@ sass:
   sass_dir: assets
   style: :compressed
 collections:
+  mixes:
+    output: true
   notes:
     output: true
   pages:

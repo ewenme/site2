@@ -39,6 +39,22 @@ root: true
 
 <hr class="hr">
 
+<h2 class="text">Mixes</h2>
+<ul aria-label="mixes" class="terminal">
+{% assign pages = site.mixes | where: "feature", 1 %}
+{% for mix in mixes %}
+  <li class="line"><a href="{{ mix.url }}">{{ mix.title }}</a></li>
+{% endfor %}
+
+{% assign mixes = site.mixes | where: "feature", 1 %}
+{% for mix in mixes %}
+  <li class="line"><a href="{{ mix.url }}">{{ mix.title }}</a><br>
+    <time datetime="{{ mix.date | date_to_xmlschema }}">{{ mix.date | date: "%B %e, %Y" }}</time></li>
+{% endfor %}
+</ul>
+
+<hr class="hr">
+
 {% assign note = site.notes | last %}
 <h2 class="text">Notes</h2><a href="/notes" class="styled-link">Recent notes</a> <a href="/notes.xml" class="styled-link">RSS</a>
 <div class="note">
