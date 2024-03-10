@@ -6,7 +6,10 @@ image: 'white-label.webp'
 feature: 1
 ---
 
-{% include player.html src="https://www.dropbox.com/s/mbzx006ed3r9pov/funky%20gemz%2C%20march%202020.mp3" %}
+I recorded a new mix last nite! Nothing intellectual really, just pure funky energies for dancing/healing to. Get it in ur cups...
+
+
+{% include player.html title="funky gemz" src="https://www.dropbox.com/s/mbzx006ed3r9pov/funky%20gemz%2C%20march%202020.mp3" %}
 
 1. DJ Lostboi & Torus - Open World _[Queeste]_
 2. UNIIQU3 - Go Dumb (BITCH I TWERK) (Ft. Addy OMG) _[Juke Bounce Werk]_
