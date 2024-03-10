@@ -5,8 +5,8 @@ permalink: /feed.xml
 {% capture srcbase %}src="{{site.url}}/{% endcapture %}
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>@muan's posts</title>
-    <description>Posts.</description>
+    <title>ewen's posts</title>
+    <description>Writing</description>
     {% assign posts = site.posts | where: "feature", 1 %}
     <lastBuildDate>{{ posts.first.date | date_to_rfc822 }}</lastBuildDate>
     <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
