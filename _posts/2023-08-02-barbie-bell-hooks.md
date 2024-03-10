@@ -5,7 +5,7 @@ title: 'barbie and bell hooks'
 description:
   'The Will to Uphold the Status Quo? Barbie, Femininity, and Pessimism'
 feature: 1
-images: ['2023-08-02-barbie-bell-hooks-issa-rae.jpeg']
+image: '2023-08-02-barbie-bell-hooks-issa-rae.jpeg'
 ---
 
 ![Issa Rae elected as President Barbie, flanked by Barbie representatives of the "Pinkhouse". Everyone wears pink jumpsuits and cheers.](/images/2023-08-02-barbie-bell-hooks-issa-rae.jpeg)
