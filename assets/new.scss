@@ -411,7 +411,7 @@ figure {
   }
 }
 
-[data-page-type="photos"] {
+[data-page-type="photos"], [data-page-type="mixes"]{
   header, main, footer {
     max-width: 100%;
   }
@@ -449,6 +449,27 @@ figure {
   scroll-behavior: smooth;
   clear: both;
   text-align: center;
+}
+
+.mixes-wrapper {
+  &:focus { outline: none; }
+  scroll-behavior: smooth;
+  clear: both;
+  text-align: center;
+  display: grid;
+  column-gap: 2.5em;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-flow: dense;
+
+  figure {
+    margin-bottom: 0;
+    align-self: start;
+  }
+
+  img {
+    max-height: none;
+    height: auto;
+  }
 }
 
 .back-link {
@@ -576,6 +597,26 @@ figcaption {
     .photos-wrapper {
       margin-left: -2em;
       margin-right: -2em;
+
+      img {
+        max-height: none;
+
+        &.landscape {
+          height: calc(100vw / 1.5);
+        }
+        &.portrait {
+          height: calc(100vw / 0.667);
+        }
+        &.square {
+          height: 100vw;
+        }
+      }
+    }
+
+    .mixes-wrapper {
+      margin-left: -2em;
+      margin-right: -2em;
+      display: unset;
 
       img {
         max-height: none;

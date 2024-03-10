@@ -1,0 +1,28 @@
+---
+layout: default
+type: mixes
+title: Mixes
+---
+
+<div class="mixes-wrapper" id="mixes">
+{% assign mixes = site.mixes %}
+{% for mix in mixes %}
+<figure>
+<a href="{{ mix.url }}" class="image-link">
+  <img
+    src="/images/{{ mix.image }}"
+    height="200" 
+    loading="lazy" />
+</a>
+<figcaption>
+  <div class="desc photo-metadata">
+    <div>{{ mix.date | date: "%Y/%m/%d (%a)" }}</div>
+    {% assign split = mix.title | strip | split: "@ " %}
+    {% assign caption = split | first | strip %}
+    {% if split.size > 1  %}<div>@ {{ split[1] }}</div>{% endif %}
+  </div>
+  {% if caption != "-" and caption != "" %}{{ caption | markdownify }}{% endif %}
+</figcaption>
+</figure>
+{% endfor %}
+</div>
