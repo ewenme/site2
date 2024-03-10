@@ -4,8 +4,8 @@ permalink: /notes.xml
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>@muan's notes</title>
-    <description>Micro posts.</description>
+    <title>ewen's notes</title>
+    <description>Notes</description>
     {% assign notes = site.notes | reverse %}
     <lastBuildDate>{{ notes.first.date | date_to_rfc822 }}</lastBuildDate>
     <link>{{ site.url }}/notes.xml</link>
@@ -16,7 +16,7 @@ permalink: /notes.xml
       {% if note_time > one_day_ago %}{% continue %}{% endif %}
       <item>
         <title>{{ note.date | date: "%Y-%m-%d" }}</title>
-        <description>{{ note.content | markdownify | xml_escape }}{{ openheart | xml_escape }}</description>
+        <description>{{ note.content | markdownify | xml_escape }}</description>
         <pubDate>{{ note.date | date_to_rfc822 }}</pubDate>
         <link>{{ note.url }}</link>
         <guid isPermaLink="true">{{ note.url }}</guid>

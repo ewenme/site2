@@ -1,0 +1,26 @@
+---
+permalink: /mixes.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ewen's mixes</title>
+    <description>Mixes</description>
+    {% assign mixes = site.mixes | reverse %}
+    <lastBuildDate>{{ mixes.first.date | date_to_rfc822 }}</lastBuildDate>
+    <link>{{ site.url }}/mixes.xml</link>
+    <atom:link href="{{ site.url }}/mixes.xml" rel="self" type="application/rss+xml" />
+    {% assign one_day_ago = site.time | date: "%s" | minus: 86400 %}
+    {% for mix in mixes limit: 10 %}
+      {% assign mix_time = mix.date | date: "%s" | plus: 0 %}
+      {% if mix_time > one_day_ago %}{% continue %}{% endif %}
+      <item>
+        <title>{{ mix.date | date: "%Y-%m-%d" }}</title>
+        <description>{{ mix.content | markdownify | xml_escape }}</description>
+        <pubDate>{{ mix.date | date_to_rfc822 }}</pubDate>
+        <link>{{ mix.url }}</link>
+        <guid isPermaLink="true">{{ mix.url }}</guid>
+      </item>
+    {% endfor %}
+  </channel>
+</rss>

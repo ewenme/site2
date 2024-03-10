@@ -39,13 +39,8 @@ root: true
 
 <hr class="hr">
 
-<h2 class="text">Mixes</h2>
+<h2 class="text">Mixes</h2><a href="/mixes" class="styled-link">All mixes</a><a href="/mixes.xml" class="styled-link">RSS</a>
 <ul aria-label="mixes" class="terminal">
-{% assign pages = site.mixes | where: "feature", 1 %}
-{% for mix in mixes %}
-  <li class="line"><a href="{{ mix.url }}">{{ mix.title }}</a></li>
-{% endfor %}
-
 {% assign mixes = site.mixes | where: "feature", 1 %}
 {% for mix in mixes %}
   <li class="line"><a href="{{ mix.url }}">{{ mix.title }}</a><br>

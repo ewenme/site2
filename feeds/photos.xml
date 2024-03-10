@@ -20,7 +20,7 @@ permalink: /photos.xml
               <img src="{{ photo.path }}/public" width="100%" alt="{{ photo.alt }}"/>
             </a>
           {% endcapture %}
-          {{ content | xml_escape }}{{ openheart | xml_escape }}
+          {{ content | xml_escape }}
         </description>
         <pubDate>{{ photo.createdAt | date_to_rfc822 }}</pubDate>
         <link>{{ site.url }}/photos#{{ photo.id }}</link>
