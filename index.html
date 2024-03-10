@@ -41,7 +41,7 @@ root: true
 
 <h2 class="text">Mixes</h2><a href="/mixes" class="styled-link">All mixes</a><a href="/mixes.xml" class="styled-link">RSS</a>
 <div class="photos">
-{% assign mixes = site.mixes | where: "feature", 1 %}
+{% assign mixes = site.mixes | sort: "date" | reverse %}
 {% for mix in mixes %}
     <a href="{{ mix.url }}" class="image-link">
         <img

@@ -5,7 +5,7 @@ title: Mixes
 ---
 
 <div class="mixes-wrapper" id="mixes">
-{% assign mixes = site.mixes %}
+{% assign mixes = site.mixes | sort: "date" | reverse %}
 {% for mix in mixes %}
 <figure>
 <a href="{{ mix.url }}" class="image-link">
