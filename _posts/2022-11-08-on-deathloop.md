@@ -3,7 +3,7 @@ layout: default
 date: 2022-11-08
 title: 'on Deathloop'
 description: "a short meditation on how Arkane Studios' Deathloop isn't quite hitting."
-feature: 1
+feature: 0
 image: '2022-11-08-on-deathloop-juliana-fits.jpeg'
 ---
 
