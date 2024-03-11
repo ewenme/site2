@@ -1,7 +1,7 @@
 ---
 layout: default
-date: 2022-12-06
-title: 'sipping on Shenmue'
+date: 2022-11-22
+title: 'on Shenmue'
 description: 'on the anxiety of renting games and why manifesting a proper vibe will likely
   outlast anything technically impressive that you do'
 feature: 1
