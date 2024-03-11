@@ -4,7 +4,7 @@ date: 2023-05-19
 title: 'document the ting'
 description: 'Emma Warren B2B Elijah - Document Your Ting'
 feature: 1
-images: 2023-05-19-document-the-ting.png
+image: 2023-05-19-document-the-ting.png
 ---
 
 I watched a ~~video~~ call to action today, courtesy of Elijah and Emma Warren @
