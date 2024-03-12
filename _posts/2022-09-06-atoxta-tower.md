@@ -3,7 +3,7 @@ layout: default
 title: 'the atoxta tower'
 description: 'atoxta tower, san sebastian'
 date: 2022-09-06
-feature: 1
+feature: 0
 image: '2022-09-06-atoxta-tower.jpg'
 ---
 

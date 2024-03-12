@@ -4,7 +4,7 @@ title: understanding relative age effect in English football
 date: 2020-11-08
 description: 'Visualising relative age effect (RAE) in professional English football.'
 image: '2020-11-08-relative-age-effect-football.png'
-feature: 1
+feature: 0
 ---
 
 Relative Age Effect (RAE) describes a phenomenon where a child who is born in the early part of a selection period gains a material advantage over a child born late in the selection period. The most common examples occur in academia and sport, where cohorts of children tend to be selected by establishing a somewhat arbitrary "cut-off" date (e.g. the UK school year starts in early September). Those born nearer to the cut-off date may demonstrate greater abilities than younger peers, simply because of this additional growth and development time. However, in practice this quirk can quickly entrench itself through all manner of biases -- like greater attention from teachers, in academic settings -- that only gets compounded over time as the performance gap is reinforced.
