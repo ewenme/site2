@@ -3,7 +3,7 @@ layout: default
 title: allan saint-maximin appreciation post
 date: 2022-02-20
 description: he dribbles when he wants.
-image: 'https://github.com/ewenme/site/blob/main/content/posts/2022-02-18-saint-maximin/figs/featured.jpeg?raw=true'
+image: '2022-02-20-saint-maximin-featured.jpeg'
 feature: 1
 ---
 
