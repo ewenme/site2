@@ -30,7 +30,7 @@
       <meta content="{{ site.title }}" property="og:title">
       <meta content="{{ site.title }}" name="twitter:title">
     {% endif %}
-    {% if page.collection == "posts" or page.collection == "notes" %}
+    {% if page.collection == "posts" or page.collection == "notes" or page.collection == "mixes" %}
       <meta content="{{ site.url }}{{ page.url }}" property="og:url">
       <meta content="{{ page.content | strip_html | strip_newlines | truncate: 120 }}" name="description">
       {% if page.collection == "posts" %}
@@ -349,7 +349,7 @@
       <h1 class="h1">
         <span lang="{{lang}}">{{ page.title }}</span>
       </h1>
-      {% if page.collection == "posts" %}<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %e, %Y" }}</time>{% endif %}
+      {% if page.collection == "posts" or page.collection == "mixes" %}<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %e, %Y" }}</time>{% endif %}
       {% if page.collection == "notes" %}<time datetime="{{ page.date }}">{{ page.date | date: "%Y/%m/%d %H:%M" }}</time>{% endif %}
       <div class="desc">{{ page.header_content }}</div>
     </header>
@@ -376,7 +376,7 @@
         {% endif %}
         {{ content }}
       {% endcapture %}
-      {% if page.collection == "posts" or page.collection == "pages" %}
+      {% if page.collection == "posts" or page.collection == "pages" or page.collection == "mixes" %}
         <article>
           {{ content_and_then_some }}
         </article>
