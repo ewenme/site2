@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'in search of the mixtape GOAT'
+title: 'in search of the mixtape goat'
 description: 'A data-driven tribute to the best of the mixtape era glow-ups.'
 date: 2018-09-17
 image: 'https://github.com/rbind/ewenme/raw/master/static/img/2018-09-17-in-search-of-the-mixtape-goat/datpiff-bubble.png'
