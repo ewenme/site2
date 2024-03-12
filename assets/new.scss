@@ -50,7 +50,7 @@ body {
 }
 
 body, kbd {
-  font-family: system-ui, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
 }
 
 a {
@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6, .font {
 }
 
 .plain {
-  font-family: system-ui, sans-serif
+  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -229,7 +229,7 @@ blockquote {
     font-size: 2rem;
     position: absolute;
     margin-left: -.5em;
-    font-family: sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
   }
 }
 
@@ -254,7 +254,7 @@ hr {
 }
 
 article {
-  font-family: system-ui, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
   font-size: 16px;
 }
 
@@ -657,7 +657,7 @@ open-stories {
 
   &:not(:defined),
   &::part(button) {
-    font-family: system-ui, sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
     border: 1px solid var(--borderColor);
     box-shadow: inset 0 0 0 2px var(--backgroundColor);
     color: var(--textColor);
@@ -733,7 +733,7 @@ open-stories {
 }
 
 .monospace {
-  font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;  
+  font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;  
   font-size: 0.9em;
 }
 
