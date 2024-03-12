@@ -15,4 +15,3 @@ collections:
     output: true
   pages:
     output: true
-include: [".well-known"]
