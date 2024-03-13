@@ -56,7 +56,7 @@ root: true
 <div class="photos">
 {% assign mixes = site.mixes | sort: "date" | reverse %}
 {% for mix in mixes %}
-    <a href="{{ mix.url }}" class="image-link">
+    <a href="{{ mix.url }}" aria-label="go to the mix page" class="image-link">
       <picture>
         <source type="image/webp" srcset="https://mixes.ewen.io/{{ mix.image }}_400.webp" />
         <img
