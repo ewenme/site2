@@ -3,6 +3,7 @@ title: bathing tapes vol. two
 layout: default
 date: 2018-10-11
 image: '2018-10-11-bathing-tapes-vol-two'
+alt: 'artwork for bathing tapes volume two mix'
 feature: 1
 ---
 

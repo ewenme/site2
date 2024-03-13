@@ -3,6 +3,7 @@ title: funky gemz
 layout: default
 date: 2020-03-05
 image: '2020-03-05-funky-gemz'
+alt: 'artwork for funky gemz mix'
 feature: 1
 ---
 
