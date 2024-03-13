@@ -22,6 +22,17 @@ root: true
 
 <hr class="hr">
 
+{% assign note = site.notes | last %}
+<h2 class="text">Notes</h2><a href="/notes" class="styled-link">Recent notes</a> <a href="/notes.xml" class="styled-link">RSS</a>
+<div class="note">
+  <div class="note-heading">
+    Latest: {{ note.date | date: "%B %e, %Y" }}
+  </div>
+  {{ note.content | markdownify }}
+</div>
+
+<hr class="hr">
+
 <h2 class="text">Photos</h2><a href="/photos" class="styled-link">All photos</a> <a href="/photos.xml" class="styled-link">RSS</a>
 <div class="photos">
   {% assign photos = site.data.photos | slice: 0, 5 %}
@@ -46,24 +57,16 @@ root: true
 {% assign mixes = site.mixes | sort: "date" | reverse %}
 {% for mix in mixes %}
     <a href="{{ mix.url }}" class="image-link">
+      <picture>
+        <source type="image/webp" srcset="https://mixes.ewen.io/{{ mix.image }}_400.webp" />
         <img
-          src="/images/{{ mix.image }}"
+          src="https://mixes.ewen.io/{{ mix.image }}_400.jpg"
           height="200" 
-          loading="lazy" />
+          loading="lazy"/>
+      </picture>
     </a>
 {% endfor %}
   </div>
-
-<hr class="hr">
-
-{% assign note = site.notes | last %}
-<h2 class="text">Notes</h2><a href="/notes" class="styled-link">Recent notes</a> <a href="/notes.xml" class="styled-link">RSS</a>
-<div class="note">
-  <div class="note-heading">
-    Latest: {{ note.date | date: "%B %e, %Y" }}
-  </div>
-  {{ note.content | markdownify }}
-</div>
 
 <hr class="hr">
 

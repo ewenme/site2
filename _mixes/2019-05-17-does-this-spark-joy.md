@@ -2,7 +2,7 @@
 title: does this spark joy
 layout: default
 date: 2019-05-17
-image: '2019-05-17-does-this-spark-joy.png'
+image: '2019-05-17-does-this-spark-joy'
 feature: 1
 ---
 

@@ -2,7 +2,7 @@
 title: bathing tapes vol. two
 layout: default
 date: 2018-10-11
-image: '2018-10-11-bathing-tapes-vol-two.jpg'
+image: '2018-10-11-bathing-tapes-vol-two'
 feature: 1
 ---
 
