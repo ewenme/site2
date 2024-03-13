@@ -2,7 +2,7 @@
 title: mix 4 kamilla @ foundation.fm
 layout: default
 date: 2020-03-05
-image: '2020-10-21-mix-4-kamilla-foundation.jpg'
+image: '2020-10-21-mix-4-kamilla-foundation'
 feature: 1
 ---
 

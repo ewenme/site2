@@ -9,10 +9,13 @@ title: Mixes
 {% for mix in mixes %}
 <figure>
 <a href="{{ mix.url }}" class="image-link">
-  <img
-    src="/images/{{ mix.image }}"
-    height="200" 
-    loading="lazy" />
+
+  <picture>
+    <source type="image/webp" srcset="https://mixes.ewen.io/{{ mix.image }}_400.webp" />
+    <img
+    src="https://mixes.ewen.io/{{ mix.image }}_400.jpg"
+    loading="lazy"/>
+  </picture>
 </a>
 <figcaption>
   <div class="desc photo-metadata">

@@ -57,10 +57,13 @@ root: true
 {% assign mixes = site.mixes | sort: "date" | reverse %}
 {% for mix in mixes %}
     <a href="{{ mix.url }}" class="image-link">
+      <picture>
+        <source type="image/webp" srcset="https://mixes.ewen.io/{{ mix.image }}_400.webp" />
         <img
-          src="/images/{{ mix.image }}"
+          src="https://mixes.ewen.io/{{ mix.image }}_400.jpg"
           height="200" 
-          loading="lazy" />
+          loading="lazy"/>
+      </picture>
     </a>
 {% endfor %}
   </div>

@@ -2,7 +2,7 @@
 title: funky gemz
 layout: default
 date: 2020-03-05
-image: '2020-03-05-funky-gemz.jpg'
+image: '2020-03-05-funky-gemz'
 feature: 1
 ---
 
