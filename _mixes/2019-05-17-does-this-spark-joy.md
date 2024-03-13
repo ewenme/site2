@@ -3,6 +3,7 @@ title: does this spark joy
 layout: default
 date: 2019-05-17
 image: '2019-05-17-does-this-spark-joy'
+alt: 'artwork for does this spark joy mix'
 feature: 1
 ---
 
