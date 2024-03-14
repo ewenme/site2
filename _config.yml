@@ -11,6 +11,7 @@ sass:
 collections:
   mixes:
     output: true
+    permalink: /mixes/:title
   notes:
     output: true
   pages:
