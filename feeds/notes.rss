@@ -12,6 +12,8 @@ comment: For micro.blog only.
     <atom:link href="{{ site.url }}/notes.rss" rel="self" type="application/rss+xml" />
     {% assign notes = site.notes | reverse %}
     <lastBuildDate>{{ notes.first.date | date_to_rfc822 }}</lastBuildDate>
+    {% for note in notes limit: 20 %}
+      {% assign note_time = note.date | date: "%s" | plus: 0 %}
       <item>
         <title></title>
         <description>{{ note.content | markdownify | xml_escape }}</description>

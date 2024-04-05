@@ -10,7 +10,7 @@ permalink: /notes.xml
     <lastBuildDate>{{ notes.first.date | date_to_rfc822 }}</lastBuildDate>
     <link>{{ site.url }}/notes.xml</link>
     <atom:link href="{{ site.url }}/notes.xml" rel="self" type="application/rss+xml" />
-    {% for note in notes limit: 10 %}
+    {% for note in notes limit: 20 %}
       <item>
         <title>{{ note.date | date: "%Y-%m-%d" }}</title>
         <description>{{ note.content | markdownify | xml_escape }}</description>
