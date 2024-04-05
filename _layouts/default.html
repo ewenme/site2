@@ -11,14 +11,8 @@
       <link href="/assets/syntax.css" rel="stylesheet" type="text/css">
     {% endif %}
     {% if page.collection == "mixes" %}
-    <link
-    rel="stylesheet"
-    href="https://cdn.jsdelivr.net/npm/vidstack@^1.0.0/player/styles/default/theme.min.css"
-  />
-  <link
-    rel="stylesheet"
-    href="https://cdn.jsdelivr.net/npm/vidstack@^1.0.0/player/styles/default/layouts/audio.min.css"
-  />
+    <link rel="stylesheet" href="https://cdn.vidstack.io/player/theme.css" />
+    <link rel="stylesheet" href="https://cdn.vidstack.io/player/audio.css" />
     {% endif %}
     {% if page.title %}
       <title>{{ page.title }} - {{ site.title }}</title>
@@ -417,10 +411,7 @@
       </script>
     {% endif %}
     {% if page.collection == "mixes" %}
-    <script
-  src="https://cdn.jsdelivr.net/npm/vidstack@^1.0.0/cdn/with-layouts/vidstack.js"
-  type="module"
-></script>
+    <script src="https://cdn.vidstack.io/player" type="module"></script>
     {% endif %}
   </body>
   <footer>
