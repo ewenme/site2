@@ -5,77 +5,101 @@ root: true
 ---
 
 <p>
-  Trying to make a deep spring. Made in Essex and typing from home in South London<span class="time" data-timestamp-text=", where it's currently {time}"></span>. 
+  Trying to make a deep spring. Grown in Essex and typing from home in South
+  London<span
+    class="time"
+    data-timestamp-text=", where it's currently {time}"
+  ></span
+  >.
 </p>
 
 <nav aria-label="Social">
-  <span>📧 ewenme [at] tutanota [dot] com</span><hr class="inline-hr">
-  <a href="https://github.com/ewenme" rel="me">GitHub</a><hr class="inline-hr">
-  <a href="https://www.discogs.com/user/ewen_" rel="me">Discogs</a><hr class="inline-hr">
-  <a href="https://bandcamp.com/ewen_" rel="me">Bandcamp</a><hr class="inline-hr">
-  <a href="https://letterboxd.com/ewenme/" rel="me">Letterboxd</a><hr class="inline-hr">
+  <span>📧 ewenme [at] tutanota [dot] com</span>
+  <hr class="inline-hr" />
+  <a href="https://github.com/ewenme" rel="me">GitHub</a>
+  <hr class="inline-hr" />
+  <a href="https://www.discogs.com/user/ewen_" rel="me">Discogs</a>
+  <hr class="inline-hr" />
+  <a href="https://bandcamp.com/ewen_" rel="me">Bandcamp</a>
+  <hr class="inline-hr" />
+  <a href="https://letterboxd.com/ewenme/" rel="me">Letterboxd</a>
+  <hr class="inline-hr" />
   <a href="https://cloud696.club/" rel="me">Cloud 696</a>
 </nav>
 <nav aria-label="Additional content">
   <a href="{% link _pages/blogroll.md %}">Blogroll</a>
 </nav>
 
-<hr class="hr">
+<hr class="hr" />
 
 {% assign note = site.notes | last %}
-<h2 class="text">Notes</h2><a href="/notes" class="styled-link">Recent notes</a> <a href="/notes.xml" class="styled-link">RSS</a>
+<h2 class="text">Notes</h2>
+<a href="/notes" class="styled-link">Recent notes</a>
+<a href="/notes.xml" class="styled-link">RSS</a>
 <div class="note">
-  <div class="note-heading">
-    Latest: {{ note.date | date: "%B %e, %Y" }}
-  </div>
+  <div class="note-heading">Latest: {{ note.date | date: "%B %e, %Y" }}</div>
   {{ note.content | markdownify }}
 </div>
 
-<hr class="hr">
+<hr class="hr" />
 
-<h2 class="text">Photos</h2><a href="/photos" class="styled-link">All photos</a> <a href="/photos.xml" class="styled-link">RSS</a>
+<h2 class="text">Photos</h2>
+<a href="/photos" class="styled-link">All photos</a>
+<a href="/photos.xml" class="styled-link">RSS</a>
 <div class="photos">
-  {% assign photos = site.data.photos | slice: 0, 5 %}
-{% for photo in photos %}
+  {% assign photos = site.data.photos | slice: 0, 5 %} {% for photo in photos %}
   <a href="/photos#{{ photo.id}}" class="image-link">
     <picture>
       <source type="image/webp" srcset="{{ photo.path }}_400.webp" />
       <img
         src="{{ photo.path }}_400.jpg"
-        height="200" 
+        height="200"
         alt="{{ photo.alt }}"
-        loading="lazy" style="aspect-ratio: {{ photo.ratio }};" />
+        loading="lazy"
+        style="aspect-ratio: {{ photo.ratio }};"
+      />
     </picture>
   </a>
-{% endfor %}
+  {% endfor %}
 </div>
 
-<hr class="hr">
+<hr class="hr" />
 
-<h2 class="text">Mixes</h2><a href="/mixes" class="styled-link">All mixes</a><a href="/mixes.xml" class="styled-link">RSS</a>
+<h2 class="text">Mixes</h2>
+<a href="/mixes" class="styled-link">All mixes</a
+><a href="/mixes.xml" class="styled-link">RSS</a>
 <div class="photos">
-{% assign mixes = site.mixes | sort: "date" | reverse %}
-{% for mix in mixes %}
-    <a href="{{ mix.url }}" aria-label="go to the mix page" class="image-link">
-      <picture>
-        <source type="image/webp" srcset="https://mixes.ewen.io/{{ mix.image }}_400.webp" />
-        <img
-          src="https://mixes.ewen.io/{{ mix.image }}_400.jpg"
-          height="200" 
-          alt="{{ mix.alt }}"
-          loading="lazy"/>
-      </picture>
-    </a>
-{% endfor %}
-  </div>
+  {% assign mixes = site.mixes | sort: "date" | reverse %} {% for mix in mixes
+  %}
+  <a href="{{ mix.url }}" aria-label="go to the mix page" class="image-link">
+    <picture>
+      <source
+        type="image/webp"
+        srcset="https://mixes.ewen.io/{{ mix.image }}_400.webp"
+      />
+      <img
+        src="https://mixes.ewen.io/{{ mix.image }}_400.jpg"
+        height="200"
+        alt="{{ mix.alt }}"
+        loading="lazy"
+      />
+    </picture>
+  </a>
+  {% endfor %}
+</div>
 
-<hr class="hr">
+<hr class="hr" />
 
-<h2 class="text">Posts</h2><a href="/posts" class="styled-link">All posts</a><a href="/feed.xml" class="styled-link">RSS</a>
+<h2 class="text">Posts</h2>
+<a href="/posts" class="styled-link">All posts</a
+><a href="/feed.xml" class="styled-link">RSS</a>
 <ul aria-label="posts" class="terminal">
-{% assign posts = site.posts | where: "feature", 1 %}
-{% for post in posts %}
-  <li class="line"><a href="{{ post.url }}">{{ post.title }}</a><br>
-    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %e, %Y" }}</time></li>
-{% endfor %}
+  {% assign posts = site.posts | where: "feature", 1 %} {% for post in posts %}
+  <li class="line">
+    <a href="{{ post.url }}">{{ post.title }}</a><br />
+    <time datetime="{{ post.date | date_to_xmlschema }}"
+      >{{ post.date | date: "%B %e, %Y" }}</time
+    >
+  </li>
+  {% endfor %}
 </ul>
