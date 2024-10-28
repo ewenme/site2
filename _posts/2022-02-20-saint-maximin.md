@@ -4,7 +4,7 @@ title: allan saint-maximin appreciation post
 date: 2022-02-20
 description: he dribbles when he wants.
 image: '2022-02-20-saint-maximin-featured.jpeg'
-feature: 1
+feature: 0
 ---
 
 For my sins, I am a Newcastle United fan. Watching them play has been hard graft for a decent while. Fun things like [going deep in the UEFA Cup](https://www.uefa.com/uefaeuropaleague/news/025a-0eaac7816be0-7afa86d742fb-1000/) now seem like very quaint memories. There's renewed sporting optimism up on Tyneside, with a helping of geopolitical pessimism, now that [the club is owned by Saudi Arabia](https://www.bbc.co.uk/sport/football/58826899) (for what it's worth, the previous owner Mike Ashley, has been [regularly accused of paying staff below minimum wage](https://www.theguardian.com/business/2020/jul/23/sports-direct-undercover-minimum-wage-mike-ashley), so the human rights bar is already unspeakably low). These sport~~wash~~ing revolutions typically involve waves of new players turning up to appease the new regime and expectations, inevitably taking places off of (mostly) technically limited members of the squad first. Longer term, the gentrification tends to be all-encompassing. I wanted to pay tribute to the player that has managed to light up countless diabolical performances across some forgettable seasons, while there's time left to enjoy more.
