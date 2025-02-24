@@ -3,6 +3,6 @@ layout: default
 title: About
 ---
 
-My name is Ewen and this is my silly little website. I've effectively logged off from social media and use this place to intentionally share feelings, art and fragments of my life. I don't have any aspirations to grow a readership that expects a specific "thing" from me. My day job has almost nothing to do with any of this and I am determined to create whatever I'm inspired to make today. I truly hope you find something here that moves you!
+I'm Ewen and this here is my silly little corner of the world wide web. I'm semi-retired from social media and use this gaff to document bits and bobs from my life instead. My day job has basically fuck all to do with any of this and I try to treat it a sanctuary of sorts to share whatever I'm feeling today.
 
-Elsewhere IRL, I just started a project called [Side Missions](https://sidemissions.substack.com/) for sharing audio essays and collages. I'm also 1/2 of [Cloud 696](https://cloud696.club/), a DJ supergroup that literally no one asked for.
+I hope you can find something here that's a vibe. Shout me if u do !
