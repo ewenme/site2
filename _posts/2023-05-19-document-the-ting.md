@@ -3,7 +3,7 @@ layout: default
 date: 2023-05-19
 title: 'document the ting'
 description: 'Emma Warren B2B Elijah - Document Your Ting'
-feature: 1
+feature: 0
 image: 2023-05-19-document-the-ting.png
 ---
 

@@ -3,7 +3,7 @@ layout: default
 date: 2022-09-30
 title: 'homemade radio: a field guide'
 description: 'how to do all the boring bits behind a DIY online radio show.'
-feature: 1
+feature: 0
 image: '2022-09-30-diy-dj-stream-notion.png'
 ---
 
