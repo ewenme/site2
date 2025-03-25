@@ -4,7 +4,7 @@ layout: default
 date: 2018-05-11
 image: '2018-05-11-bathing-tapes-vol-one'
 alt: 'artwork for bathing tapes volume one mix'
-feature: 1
+feature: 0
 ---
 
 Last month I recorded a studio mix at home on the 1210s, the first volume of an occasional series for me to share sounds I'm bumping heavy. I'm calling it _bathing tapes_ (don't @ me, [Nigo](https://en.wikipedia.org/wiki/Nigo)), 'cos most of the jams won't sound out of place during an extended exfoliation session. but you should enjoy the soothing vibes wherever you're at. Find experimental techno diversions, Houston hip-hop, ethereal footwork waves, bleepy dancehall and more sweet infusions inside.

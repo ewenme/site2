@@ -4,7 +4,7 @@ layout: default
 date: 2018-10-11
 image: '2018-10-11-bathing-tapes-vol-two'
 alt: 'artwork for bathing tapes volume two mix'
-feature: 1
+feature: 0
 ---
 
 The latest edition of bathing tapes is out there, recorded at home on a Sunday a couple of months ago. The mix is mostly stuff that came out in the second half of this year that I've been bumping. There's frenetic techno and grime combinations, deviant pop and electro runs, and euphoric breakbeats rubbing against lonely bassweight jams. As always, credit and love to the makers of all this music, filled me up all autumn and beyond.
