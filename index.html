@@ -79,7 +79,7 @@ root: true
 <a href="/sounds" class="styled-link">All sounds</a
 ><a href="/sounds.xml" class="styled-link">RSS</a>
 <div class="photos">
-  {% assign sounds = site.sounds | sort: "date" | reverse %} {% for sound in sounds
+  {% assign sounds = site.sounds | sort: "date" | reverse | slice: 0, 5 %} {% for sound in sounds
   %}
   <a href="{{ sound.url }}" aria-label="go to the sound page" class="image-link">
     <picture>
