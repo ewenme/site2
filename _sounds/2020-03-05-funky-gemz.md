@@ -1,5 +1,5 @@
 ---
-title: funky gemz
+title: funky gemz @ home
 layout: default
 date: 2020-03-05
 image: '2020-03-05-funky-gemz'

@@ -1,11 +1,13 @@
 ---
-title: Artificial Alchemists
+title: Artificial Alchemists @ Side Missions
 layout: default
 date: 2025-02-09
 image: '2025-02-09-artificial-alchemists'
 alt: 'artwork for Artificial Alchemists Side Missions episode'
 feature: 1
 ---
+
+A [Side Missions](https://sidemissions.substack.com/) production.
 
 feat. Izumi Suzuki, Holly Herndon, Mat Dryhurst, Goldie, Mozart and Lupe Fiasco.
 

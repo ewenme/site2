@@ -1,5 +1,5 @@
 ---
-title: does this spark joy
+title: does this spark joy @ home
 layout: default
 date: 2019-05-17
 image: '2019-05-17-does-this-spark-joy'

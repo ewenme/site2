@@ -1,5 +1,5 @@
 ---
-title: bathing tapes vol. two
+title: bathing tapes vol. two @ home
 layout: default
 date: 2018-10-11
 image: '2018-10-11-bathing-tapes-vol-two'
