@@ -75,22 +75,22 @@ root: true
 
 <hr class="hr" />
 
-<h2 class="text">Mixes</h2>
-<a href="/mixes" class="styled-link">All mixes</a
-><a href="/mixes.xml" class="styled-link">RSS</a>
+<h2 class="text">Sounds</h2>
+<a href="/sounds" class="styled-link">All sounds</a
+><a href="/sounds.xml" class="styled-link">RSS</a>
 <div class="photos">
-  {% assign mixes = site.mixes | sort: "date" | reverse %} {% for mix in mixes
+  {% assign sounds = site.sounds | sort: "date" | reverse %} {% for sound in sounds
   %}
-  <a href="{{ mix.url }}" aria-label="go to the mix page" class="image-link">
+  <a href="{{ sound.url }}" aria-label="go to the sound page" class="image-link">
     <picture>
       <source
         type="image/webp"
-        srcset="https://mixes.ewen.io/{{ mix.image }}_400.webp"
+        srcset="https://mixes.ewen.io/{{ sound.image }}_400.webp"
       />
       <img
-        src="https://mixes.ewen.io/{{ mix.image }}_400.jpg"
+        src="https://mixes.ewen.io/{{ sound.image }}_400.jpg"
         height="200"
-        alt="{{ mix.alt }}"
+        alt="{{ sound.alt }}"
         loading="lazy"
       />
     </picture>

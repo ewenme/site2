@@ -412,7 +412,7 @@ figure {
   }
 }
 
-[data-page-type="photos"], [data-page-type="mixes"]{
+[data-page-type="photos"], [data-page-type="sounds"]{
   header, main, footer {
     max-width: 100%;
   }
@@ -452,7 +452,7 @@ figure {
   text-align: center;
 }
 
-.mixes-wrapper {
+.sounds-wrapper {
   &:focus { outline: none; }
   scroll-behavior: smooth;
   clear: both;
@@ -614,7 +614,7 @@ figcaption {
       }
     }
 
-    .mixes-wrapper {
+    .sounds-wrapper {
       margin-left: -2em;
       margin-right: -2em;
       display: unset;
