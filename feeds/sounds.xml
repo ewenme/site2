@@ -1,15 +1,15 @@
 ---
-permalink: /mixes.xml
+permalink: /sounds.xml
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ewen's mixes</title>
-    <description>Mixes</description>
-    {% assign mixes = site.mixes | reverse %}
+    <title>ewen's sounds</title>
+    <description>Sounds</description>
+    {% assign mixes = site.sounds | reverse %}
     <lastBuildDate>{{ mixes.first.date | date_to_rfc822 }}</lastBuildDate>
-    <link>{{ site.url }}/mixes.xml</link>
-    <atom:link href="{{ site.url }}/mixes.xml" rel="self" type="application/rss+xml" />
+    <link>{{ site.url }}/sounds.xml</link>
+    <atom:link href="{{ site.url }}/sounds.xml" rel="self" type="application/rss+xml" />
     {% assign one_day_ago = site.time | date: "%s" | minus: 86400 %}
     {% for mix in mixes limit: 10 %}
       {% assign mix_time = mix.date | date: "%s" | plus: 0 %}
