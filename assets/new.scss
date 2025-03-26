@@ -1,6 +1,8 @@
 ---
 ---
 
+html { font-size: 100%; font: -apple-system-body; }
+
 :root {
   --backgroundColor: #fdfdfd;
   --textColor: #303030;
@@ -42,10 +44,10 @@
 body {
   background: var(--backgroundColor);
   color: var(--textColor);
-  line-height: 1.7em;
+  line-height: 1.62em;
   padding: 0 2.5em;
   margin: 0;
-  font-size: 18px;
+  font-size: 1.1rem;
   word-wrap: break-word;
 }
 
@@ -278,8 +280,7 @@ hr {
 }
 
 article {
-  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
-  font-size: 16px;
+  font-size: 1rem;
 }
 
 .smol {
@@ -795,7 +796,7 @@ kbd {
 nav {
   display: flex;
   flex-wrap: wrap;
-  column-gap: .8em;
+  gap: .6em;
   margin: .6em 0;
 }
 
