@@ -55,7 +55,30 @@ body, kbd {
 
 a {
   color: var(--linkColor);
-  text-underline-position: under;
+  text-underline-offset: 3px;
+}
+
+a[href^='http']:not([href^='https://ewen.io/'], .hidden-link, :has(img)) {
+  padding-right: 0.5em;
+
+  &:after {
+    content: '┓' / ', external';
+    font-family: var(--sansserif);
+    font-size: 0.5em;
+    line-height: 0;
+    text-decoration: none;
+    position: absolute;
+    margin-top: calc(1rem - 1.7em);
+    line-height: 1em;
+  }
+}
+
+a, u {
+  text-decoration-thickness: 0.5px;
+}
+
+.hidden-link {
+  text-decoration: none;
 }
 
 ::selection {
