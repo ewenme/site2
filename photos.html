@@ -13,11 +13,11 @@ title: Photos
       <source type="image/webp" srcset="{{ photo.path }}_2304.webp" />
       <img
       src="{{ photo.path }}_2304.jpg"
-      height="{{ photo.height }}"
+      height="2304"
       style="aspect-ratio: {{ photo.ratio }}"
       alt="{{ photo.alt }}"
       title="{{ photo.alt }}"
-      class="{{ photo.orientation }}"
+      class="{% if photo.ratio > 1 %}landscape{% else %}portrait{% endif %}"
       loading="lazy"/>
     </picture>
   </a>
