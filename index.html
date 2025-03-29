@@ -47,7 +47,7 @@ root: true
 <a href="/notes" class="styled-link">Recent notes</a>
 <a href="/notes.xml" class="styled-link">RSS</a>
 <div class="note">
-  <div class="note-heading">Latest: {{ note.date | date: "%B %e, %Y" }}</div>
+  <time class="general-actions monospace">{{ note.date | date: "%B %e, %Y" }}</time>
   {{ note.content | markdownify }}
 </div>
 
