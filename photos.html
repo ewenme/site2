@@ -8,11 +8,11 @@ title: Photos
 {% assign photos = site.data.photos %}
 {% for photo in photos %}
 <figure id="{{ photo.id }}" class="figure-{{ photo.orientation }}">
-  <a href="{{ photo.path }}_original.jpg" class="image-link">
+  <a href="https://photos.ewen.io/{{ photo.id }}_original.jpg" class="image-link">
     <picture>
-      <source type="image/webp" srcset="{{ photo.path }}_2304.webp" />
+      <source type="image/webp" srcset="https://photos.ewen.io/{{ photo.id }}_2304.webp" />
       <img
-      src="{{ photo.path }}_2304.jpg"
+      src="https://photos.ewen.io/{{ photo.id }}_2304.jpg"
       height="2304"
       style="aspect-ratio: {{ photo.ratio }}"
       alt="{{ photo.alt }}"

@@ -1,403 +1,280 @@
 [ 
     { 
         "id": "2024-10-19-koko",
-        "width": 3488, 
-        "height": 4640, 
         "ratio": 0.75, 
-        "path": "https://photos.ewen.io/2024-10-19-koko", 
         "caption": "Raving w mumsy @ Koko", 
         "alt": "A mum and her sun stop for a selfie amid a packed Koko dancefloor.", 
         "createdAt": "2024-10-19T12:28:09.000Z"
         }, 
     { 
         "id": "2024-10-12-railway-farewell",
-        "width": 4000, 
-        "height": 2252, 
         "ratio": 1.77, 
-        "path": "https://photos.ewen.io/2024-10-12-railway-farewell", 
         "caption": "Drinking the bar dry @ The Railway", 
         "alt": "A man cradles a pint and looks across an empty dancefloor.", 
         "createdAt": "2024-10-12T12:28:09.000Z"
         }, 
     { 
         "id": "2024-09-22-ciel-spanners",
-        "width": 4000, 
-        "height": 2252, 
         "ratio": 1.77, 
-        "path": "https://photos.ewen.io/2024-09-22-ciel-spanners", 
         "caption": "Ciel for Orientate @ Spanners", 
         "alt": "A hazy figure of a DJ sits in the middle of dazzling pink and purple smudges, shrouded by the dark room.", 
         "createdAt": "2024-09-22T12:28:09.000Z"
         }, 
     { 
         "id": "2024-08-27-the-den",
-        "width": 4000, 
-        "height": 2252, 
         "ratio": 1.77, 
-        "path": "https://photos.ewen.io/2024-08-27-the-den", 
         "caption": "Leyton Orient are massive @ The Den", 
         "alt": "The Leyton Orient team clap from the pitch, up towards the jubilant away support.", 
         "createdAt": "2024-08-27T12:28:09.000Z"
         }, 
     { 
         "id": "2024-08-26-tattered-lions",
-        "width": 2252, 
-        "height": 4000, 
         "ratio": 0.56, 
-        "path": "https://photos.ewen.io/2024-08-26-tattered-lions", 
         "caption": "Three Lions in bits @ Notting Hill Carnival", 
         "alt": "A three lions flag in tatters hangs off the corner of a block of flats while a police helicopter flies overhead.", 
         "createdAt": "2024-08-26T12:28:09.000Z"
         },  
     { 
         "id": "2024-08-26-channel-one",
-        "width": 4000, 
-        "height": 2252, 
         "ratio": 1.77, 
-        "path": "https://photos.ewen.io/2024-08-26-channel-one", 
         "caption": "Channel One sound-system setting up @ Notting Hill Carnival", 
         "alt": "A weighty soundsystem straddles both sides of the pavement as a group of men stand hands on hips at the back of a truck.", 
         "createdAt": "2024-08-26T12:28:09.000Z"
         },  
     { 
         "id": "2024-08-17-fox",
-        "width": 2252, 
-        "height": 4000, 
         "ratio": 0.56, 
-        "path": "https://photos.ewen.io/2024-08-17-fox", 
         "caption": "Stand-off at dawn @ Telegraph Hill", 
         "alt": "A fox stares down the camera, next to a bin tied to the corner of a caged tennis court as the morning sun breaks.", 
         "createdAt": "2024-08-17T12:28:09.000Z"
         },  
     { 
         "id": "2024-08-11-selfie-booth",
-        "width": 3488, 
-        "height": 4640, 
         "ratio": 0.75, 
-        "path": "https://photos.ewen.io/2024-08-11-selfie-booth", 
         "caption": "Assimilating @ Purikura no Mecca", 
         "alt": "A long-haired, bearded man tries his best to match the pose of an airbrushed Japanese girl plastered on the side of a selfie photo booth.", 
         "createdAt": "2024-08-11T12:28:09.000Z"
         },  
     { 
         "id": "2024-08-09-grooming",
-        "width": 2252, 
-        "height": 4000, 
         "ratio": 0.56, 
-        "path": "https://photos.ewen.io/2024-08-09-grooming", 
         "caption": "Illegal grooming snap @ Shibuya", 
         "alt": "A white pomeranian dog sits in a dog grooming shop, with a 'no photos' sign in the window.", 
         "createdAt": "2024-08-09T12:28:09.000Z"
         },  
     { 
         "id": "2024-06-27-wedding",
-        "width": 3488, 
-        "height": 4640, 
         "ratio": 0.75, 
-        "path": "https://photos.ewen.io/2024-06-27-wedding", 
         "caption": "Wedding day!", 
         "alt": "A suited and booted, bearded bloke rides a rickshaw with a woman in a silver dress and sunglasses, both smiling.", 
         "createdAt": "2024-06-27T12:28:09.000Z"
         },       
 { 
         "id": "2024-06-14-jcb",
-        "width": 2252, 
-        "height": 4000, 
         "ratio": 0.56, 
-        "path": "https://photos.ewen.io/2024-06-14-jcb", 
         "caption": "Diggin' @ Cold Blow Lane", 
         "alt": "A JCB digger contents with a giant pile of wood chip.", 
         "createdAt": "2024-06-14T12:28:09.000Z"
         },    
 { 
         "id": "2024-06-08-walton",
-        "width": 4000, 
-        "height": 2252, 
         "ratio": 1.77, 
-        "path": "https://photos.ewen.io/2024-06-08-walton", 
         "caption": "Mumsy's birthday @ Walton-on-the-Naze, Essex", 
         "alt": "A man emerges from a pink beach hut, while a red-haired woman and a small girl smile from inside the window.", 
         "createdAt": "2024-06-08T12:28:09.000Z"
         },
     { 
         "id": "2024-04-29-machu-picchu",
-        "width": 3488, 
-        "height": 4640, 
         "ratio": 0.75, 
-        "path": "https://photos.ewen.io/2024-04-29-machu-picchu", 
         "caption": "Photo-bombing an Alpaca @ Machu Picchu, Peru", 
         "alt": "A hairy, bearded and stern man takes a selfie with majestic ancient ruins and a beautiful Alpaca behind over his shoulder.", 
         "createdAt": "2024-04-29T12:28:09.000Z"
         },
     { 
         "id": "2024-04-28-san-pedro-carcass",
-        "width": 2252, 
-        "height": 4000, 
         "ratio": 0.56, 
-        "path": "https://photos.ewen.io/2024-04-28-san-pedro-carcass", 
         "caption": "Shutting up shop @ Mercado Central de San Pedro, Cusco", 
         "alt": "A colourful fabric bag filled to the brim with horns and carcasses, tied to a larger blue bag in the background.", 
         "createdAt": "2024-04-28T12:28:09.000Z"
         },
     { 
         "id": "2024-04-20-seals",
-        "width": 2252, 
-        "height": 4000, 
         "ratio": 0.56, 
-        "path": "https://photos.ewen.io/2024-04-20-seals", 
         "caption": "Fighting for the perfect sun worshipping spot @ Paracas, Peru", 
         "alt": "A group of four seals are perched on a bright green floating buoy. Two playfully fight, another swims by waiting for a spot.", 
         "createdAt": "2024-04-20T12:28:09.000Z"
         },
     { 
         "id": "2024-03-30-newcastle",
-        "width": 4000, 
-        "height": 2252, 
         "ratio": 1.77, 
-        "path": "https://photos.ewen.io/2024-03-30-newcastle", 
         "caption": "About to witness a 4-3 classic @ St James' Park, Newcastle", 
         "alt": "A silver van has it's contents strewn across the road, just beyond a low bridge it clearly wasn't built for.", 
         "createdAt": "2024-03-25T12:28:09.000Z"
         },
     { 
         "id": "2024-03-25-brockley",
-        "width": 4000, 
-        "height": 2252, 
         "ratio": 1.77, 
-        "path": "https://photos.ewen.io/2024-03-25-brockley", 
         "caption": "Monday morning headache @ Brockley, South London", 
         "alt": "A silver van has it's contents strewn across the road, just beyond a low bridge it clearly wasn't built for.", 
         "createdAt": "2024-03-25T12:28:09.000Z"
         },
     { 
         "id": "2024-03-09-fasi-engy",
-        "width": 3488, 
-        "height": 4640, 
         "ratio": 0.75, 
-        "path": "https://photos.ewen.io/2024-03-09-fasi-engy", 
         "caption": "Deluxe golf buggy express to Fasi & Engy's wedding @ Al Warqa, Dubai", 
         "alt": "Sunshine leaks in to a bunch of squinting, pasty white boys riding in a giant golf buggy.", 
         "createdAt": "2024-03-02T12:28:09.000Z"
         },
         { 
         "id": "2024-02-03-canvey",
-        "width": 2252, 
-        "height": 4000, 
         "ratio": 0.56, 
-        "orientation": "portrait", 
-        "path": "https://photos.ewen.io/2024-02-03-canvey", 
         "caption": "Boat party @ Canvey Island, Essex", 
         "alt": "Three small boats and a dinghy gathering moss on some boggy marshlands.", 
         "createdAt": "2024-02-03T12:28:09.000Z"
         },
         { 
         "id": "2024-03-01-oaxaca",
-        "width": 2252, 
-        "height": 4000, 
         "ratio": 0.56, 
-        "path": "https://photos.ewen.io/2024-03-01-oaxaca", 
         "caption": "Dog days @ Oaxaca, Mexico", 
         "alt": "Four dogs having a nap on the pavement, soaked in the morning sun.", 
         "createdAt": "2024-01-03T12:28:09.000Z"
         },
         { 
         "id": "2024-02-01-0axaca",
-        "width": 2252, 
-        "height": 4000, 
         "ratio": 0.56, 
-        "path": "https://photos.ewen.io/2024-02-01-0axaca", 
         "caption": "Motorbikes & Prayer @ Oaxaca, Mexico", 
         "alt": "Two motorbikes stand either side of a row of flower bouquets sat underneath a portrait of the Virgin Mary. Green, white and red christmas boubles are strewn across the ceiling.", 
         "createdAt": "2024-01-02T12:28:09.000Z"
         },
         { 
         "id": "2023-12-30-tulum",
-        "width": 4000, 
-        "height": 2252, 
         "ratio": 1.77, 
-        "path": "https://photos.ewen.io/2023-12-30-tulum", 
         "caption": "Ima let you finish, but Cavas had one of the best shopfronts of all time! @ Tulum, Mexico", 
         "alt": "A shop called Cavas has signage above the door that reads 'They have entered the most beautiful women in the world through this door.'", 
         "createdAt": "2023-12-30T12:28:09.000Z"
         },
         { 
         "id": "2023-12-28-miami",
-        "width": 2252, 
-        "height": 4000, 
         "ratio": 0.56, 
-        "path": "https://photos.ewen.io/2023-12-28-miami", 
         "caption": "Nadine in Shoreditch on Steroids @ Miami", 
         "alt": "Four dogs having a nap on the pavement, soaked in the morning sun.", 
         "createdAt": "2023-12-28T12:28:09.000Z"
         },
         { 
         "id": "2023-12-26-miami",
-        "width": 2252, 
-        "height": 4000, 
         "ratio": 0.56, 
-        "path": "https://photos.ewen.io/2023-12-26-miami", 
         "caption": "Liminal vibes on smash @ Miami International Airport", 
         "alt": "A clinically lit, tiled blue and black carpeted corridor stretches empty, far into the distance, with a tiny baggage carrier driving out of earshot.", 
         "createdAt": "2023-12-26T12:28:09.000Z"
         },
         { 
         "id": "2023-12-14-sault",
-        "width": 4000, 
-        "height": 2252, 
         "ratio": 1.77, 
-        "path": "https://photos.ewen.io/2023-12-14-sault", 
         "caption": "In Sault's world @ Drumsheds, North London", 
         "alt": "A clinically lit, tiled blue and black carpeted corridor stretches empty, far into the distance, with a tiny baggage carrier driving out of earshot.", 
         "createdAt": "2023-12-14T12:28:09.000Z"
         },
     { 
         "id": "2024-03-09-lairg",
-        "width": 4000, 
-        "height": 2252, 
         "ratio": 1.77, 
-        "path": "https://photos.ewen.io/2024-03-09-lairg", 
         "caption": "Liminal vibes on absolute smash @ Lairg, Scottish Highlands", 
         "alt": "A disused phonebox by the side of a mountain road. Rolling clouds and snowy mountaintops in the back.", 
         "createdAt": "2023-12-04T12:28:09.000Z"
         },
         { 
-        "id": "2024-03-09-eriboll",
-        "width": 4000, 
-        "height": 2252, 
+        "id": "2024-03-09-eriboll", 
         "ratio": 1.77, 
-        "path": "https://photos.ewen.io/2024-03-09-eriboll", 
         "caption": "Passing thru @ Loch Eriboll, Scottish Highlands", 
         "alt": "A sign reads 'passing place' in a rolling orange landscape punctured by a richly green forest.", 
         "createdAt": "2023-12-04T10:37:09.000Z"
         },
         { 
         "id": "2024-12-03-orkney",
-        "width": 3488, 
-        "height": 4640, 
         "ratio": 0.75, 
-        "path": "https://photos.ewen.io/2024-12-03-orkney", 
         "caption": "Pony selfie @ Sutherland, Orkney", 
         "alt": "A petite yet stocky brown pony effortlessly poses for a selfie with a raggedy, pasty bloke.", 
         "createdAt": "2023-12-03T10:12:09.000Z"
     },
         { 
-        "id": "2024-03-09-sutherland",
-        "width": 4000, 
-        "height": 2252, 
+        "id": "2024-03-09-sutherland", 
         "ratio": 1.77, 
-        "path": "https://photos.ewen.io/2024-03-09-sutherland", 
         "caption": "Timewarpin' @ Sutherland, Orkney", 
         "alt": "A pebbledash garage shop called 'Sutherland Supplies' or 'Sutherlands Garage'.", 
         "createdAt": "2023-12-03T10:12:09.000Z"
     },
         { 
-        "id": "2024-03-09-brodgar",
-        "width": 4000, 
-        "height": 2252, 
+        "id": "2024-03-09-brodgar", 
         "ratio": 1.77, 
-        "path": "https://photos.ewen.io/2024-03-09-brodgar", 
         "caption": "Spot the moon @ Brodgar Nature Reserve, Orkney", 
         "alt": "A white, frosty foreground with a mound backing onto a river. The tiniest of moons is visible in a clear, blue sky.", 
         "createdAt": "2023-12-03T09:39:09.000Z"
     },
     { 
         "id": "2023-08-27-new-forest",
-        "width": 3000, 
-        "height": 4000, 
         "ratio": 0.75, 
-        "orientation": "portrait", 
-        "path": "https://photos.ewen.io/2023-08-27-new-forest", 
         "caption": "Ponies just draipsed everywhere @ New Forest", 
         "alt": "A girl poses for a photo on a pavement, flanked by a whole six ponies grazing on some manicured grass.", 
-        "createdAt": "2023-08-27T09:39:09.000Z", 
-        "uploadedAt": "2024-04-05T13:44:09.000Z" 
+        "createdAt": "2023-08-27T09:39:09.000Z"
     },
     { 
         "id": "2023-08-20-skipton",
-        "width": 3000, 
-        "height": 4000, 
         "ratio": 0.75, 
-        "path": "https://photos.ewen.io/2023-08-20-skipton", 
         "caption": "Going on an adventure @ Skipton, Yorkshire", 
         "alt": "Three men stroll inbetween some imposing bright green hills.", 
         "createdAt": "2023-08-20T09:39:09.000Z"
     },
     { 
         "id": "2023-05-26-toscana",
-        "width": 3000, 
-        "height": 4000, 
         "ratio": 0.75, 
-        "path": "https://photos.ewen.io/2023-05-26-toscana", 
         "caption": "Last Of Us deleted scenes @ Tuscany, Italy", 
         "alt": "An abandoned water tower with plants shooting out of the lower floor.", 
         "createdAt": "2023-05-26T09:39:09.000Z"
     },
     { 
         "id": "2023-04-28-munich",
-        "width": 3000, 
-        "height": 4000, 
         "ratio": 0.75, 
-        "path": "https://photos.ewen.io/2023-04-28-munich", 
         "caption": "If you don't laugh you'll cry @ Munich, Germany", 
         "alt": "A lad smiles as his coffee cup falls under a van, spilling it's contents back into his feet.", 
         "createdAt": "2023-04-28T09:39:09.000Z"
     },
     { 
         "id": "2023-03-15-deptford",
-        "width": 3000, 
-        "height": 4000, 
         "ratio": 0.75, 
-        "path": "https://photos.ewen.io/2023-03-15-deptford", 
         "caption": "NOT FOR SALE @ Deptford, South London", 
         "alt": "Two bullmastifs take a rest on a market stall table while a man in a flatcap rifles through a box of trinkets on the next table.", 
         "createdAt": "2023-03-15T09:39:09.000Z"
     },
     { 
         "id": "2022-10-05-port-antonio",
-        "width": 3488, 
-        "height": 4640, 
         "ratio": 0.75, 
-        "path": "https://photos.ewen.io/2022-10-05-port-antonio", 
         "caption": "Sampling the soundsystems @ Port Antonio, Jamaica", 
         "alt": "A tropical backdrop featuring a lime green car and a long dirt track makes a perfect scene for an insincere, chipmunk-style selfie", 
         "createdAt": "2022-10-05T12:28:09.000Z"
         },
         { 
         "id": "2022-10-03-ocho",
-        "width": 4000, 
-        "height": 3000, 
         "ratio": 1.33, 
-        "path": "https://photos.ewen.io/2022-10-03-ocho", 
         "caption": "Nightime drive in the hills @ Ocho Rios, Jamaica", 
         "alt": "A vintage white hatchback is lit up against a dark, rolling forest visible from up in the hills.", 
         "createdAt": "2022-10-03T15T09:39:09.000Z"
     },
     { 
         "id": "2022-06-26-como",
-        "width": 3000, 
-        "height": 4000, 
         "ratio": 0.75, 
-        "path": "https://photos.ewen.io/2022-06-26-como", 
         "caption": "Safety first @ Como, Italy", 
         "alt": "A heavily balding but extremely tanned man holds onto a life jacket, stands on a small boat and looks up at a smartphone camera.", 
         "createdAt": "2022-06-26T12:28:09.000Z"
         },
         { 
         "id": "2022-04-16-hurghada",
-        "width": 3000, 
-        "height": 4000, 
         "ratio": 0.75, 
-        "path": "https://photos.ewen.io/2022-04-16-hurghada", 
         "caption": "Desert roadside @ Luxor, Egypt", 
         "alt": "A girl walks across a shot of a road that splits a desert in half. A pick-up truck hurtles past the shot, too.", 
         "createdAt": "2022-04-16T12:28:09.000Z"
         },
         { 
         "id": "2022-04-16-hurgada-dogs",
-        "width": 3000, 
-        "height": 4000, 
         "ratio": 0.75, 
-        "path": "https://photos.ewen.io/2022-04-16-hurgada-dogs", 
         "caption": "Paw Patrol (2022) @ Hurghada, Egypt", 
         "alt": "A group of five dogs seem to have made an unfinished building their territory, for now.", 
         "createdAt": "2022-04-16T12:28:09.000Z"
