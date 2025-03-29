@@ -342,8 +342,8 @@
       <h1 class="h1">
         <span lang="{{lang}}">{{ page.title }}</span>
       </h1>
-      {% if page.collection == "posts" or page.collection == "sounds" %}<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %e, %Y" }}</time>{% endif %}
-      {% if page.collection == "notes" %}<time datetime="{{ page.date }}">{{ page.date | date: "%Y/%m/%d %H:%M" }}</time>{% endif %}
+      {% if page.collection == "posts" or page.collection == "sounds" %}<time class="monospace" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %e, %Y" }}</time>{% endif %}
+      {% if page.collection == "notes" %}<time class="monospace" datetime="{{ page.date }}">{{ page.date | date: "%Y/%m/%d %H:%M" }}</time>{% endif %}
       <div class="desc">{{ page.header_content }}</div>
     </header>
     <main>

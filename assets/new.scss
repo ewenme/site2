@@ -103,20 +103,12 @@ main,
 footer {
   max-width: 36em;
   margin: auto;
-}
-
-h1, h2, h3, h4, h5, h6, .font {
-  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
-  font-weight: bold;
-}
-
-.plain {
-  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
+  overflow: hidden;
 }
 
 h1, h2, h3, h4, h5, h6 {
   margin: 1.4em 0 1em 0;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 .logo {
@@ -160,7 +152,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .h1 {
   font-size: 1.2rem;
-  font-weight: bold;
+  font-weight: normal;
   margin-bottom: 0;
 }
 
@@ -204,6 +196,7 @@ h1, h2, h3, h4, h5, h6 {
   border-left: .7rem solid var(--textColor);
   height: .7rem;
   margin: 3rem 0;
+  background: none;
 }
 
 .inline-hr {
@@ -314,10 +307,13 @@ img {
   }
 }
 
-hr {
+.note hr,
+[page-type="static"] hr,
+article hr {
   margin: 2em 0;
+  height: 0.2em;
+  background: transparent repeating-linear-gradient(45deg, var(--borderColor) 1px, transparent 3px, transparent 0.4em);
   border: 0;
-  border-bottom: 1px solid var(--hrColor);
 }
 
 .pagination {
@@ -914,6 +910,11 @@ open-heart:not(:defined) {
 
 .time {
   font-variant-numeric: tabular-nums;
+  font-feature-settings: "ss03" 1;
+}
+
+.status-time {
+  margin-left: 1em;
 }
 
 .embed-container {
