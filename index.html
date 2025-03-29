@@ -60,9 +60,9 @@ root: true
   {% assign photos = site.data.photos | slice: 0, 5 %} {% for photo in photos %}
   <a href="/photos#{{ photo.id}}" class="image-link">
     <picture>
-      <source type="image/webp" srcset="{{ photo.path }}_400.webp" />
+      <source type="image/webp" srcset="https://photos.ewen.io/{{ photo.id }}_400.webp" />
       <img
-        src="{{ photo.path }}_400.jpg"
+        src="https://photos.ewen.io/{{ photo.id }}_400.jpg"
         height="200"
         alt="{{ photo.alt }}"
         loading="lazy"
