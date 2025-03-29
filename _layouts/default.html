@@ -6,6 +6,7 @@
     <link rel="alternate" type="application/rss+xml" href="/notes.xml">
     <link rel="icon" href="/assets/fav.svg" type="image/svg+xml" sizes="24x24">
     <!--link rel="icon" href="/assets/fav.png" type="image/png" sizes="96x96"-->
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap" rel="stylesheet">
     <link href="/assets/new.css" rel="stylesheet" type="text/css">
     {% if page.collection == "posts" %}
       <link href="/assets/syntax.css" rel="stylesheet" type="text/css">
@@ -342,8 +343,11 @@
       <h1 class="h1">
         <span lang="{{lang}}">{{ page.title }}</span>
       </h1>
-      {% if page.collection == "posts" or page.collection == "sounds" %}<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %e, %Y" }}</time>{% endif %}
-      {% if page.collection == "notes" %}<time datetime="{{ page.date }}">{{ page.date | date: "%Y/%m/%d %H:%M" }}</time>{% endif %}
+      {% if page.root == true %}
+        <div class="desc" lang="en" data-status-loading hidden><span data-status-text></span> <time class="status-time monospace" data-status-datetime></time></div>
+      {% endif %}
+      {% if page.collection == "posts" or page.collection == "sounds" %}<time class="monospace" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %e, %Y" }}</time>{% endif %}
+      {% if page.collection == "notes" %}<time class="monospace" datetime="{{ page.date }}">{{ page.date | date: "%Y/%m/%d %H:%M" }}</time>{% endif %}
       <div class="desc">{{ page.header_content }}</div>
     </header>
     <main>
@@ -381,7 +385,7 @@
     </main>
 
     {% if page.root %}
-    <script type="module" src="/assets/site.js"></script>
+    <script type="module" src="/assets/root.js"></script>
     {% endif %}
     {% if page.type == "photos" %}
       <script>
