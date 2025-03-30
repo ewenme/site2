@@ -479,9 +479,15 @@ figure {
   }
 }
 
-[data-page-type="photos"], [data-page-type="sounds"]{
+[data-page-type="static"] {
+  h2 { font-size: 1.1em; font-weight: 500; color: var(--secondaryTextColor) }
+  h2 + p { margin-top: 0em; }
+}
+
+[data-page-type="photos"] {
   header, main, footer {
     max-width: 100%;
+    overflow: initial;
   }
 
   input {
@@ -628,6 +634,9 @@ figure {
 
 figcaption {
   padding: .5em 1em;
+  display: flex;
+  flex-direction: column;
+  gap: .2em 0;
 
   p {
     margin: 0;
