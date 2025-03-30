@@ -16,8 +16,8 @@ permalink: /photos.xml
         <title>{{ photo.caption | markdownify | strip_html | xml_escape }}</title>
         <description>
           {% capture content %}
-            <a href="{{ photo.path }}/public">
-              <img src="{{ photo.path }}/public" width="100%" alt="{{ photo.alt }}"/>
+            <a href="https://photos.ewen.io/{{ photo.id }}_original.jpg">
+              <img src="https://photos.ewen.io/{{ photo.id }}_2304.jpg" width="100%" alt="{{ photo.alt }}"/>
             </a>
           {% endcapture %}
           {{ content | xml_escape }}
