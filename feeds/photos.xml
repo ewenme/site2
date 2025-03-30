@@ -9,7 +9,7 @@ permalink: /photos.xml
     <description>Photos</description>
     {% assign photos = site.data.photos | slice: 0, 10 %}
     <lastBuildDate>{{ photos.first.createdAt | date_to_rfc822 }}</lastBuildDate>
-    <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="{{ site.url }}/photos.xml" rel="self" type="application/rss+xml" />
     <link>{{ site.url }}/photos.xml</link>
     {% for photo in photos limit:10 %}
       <item>
