@@ -28,7 +28,6 @@ title: Photos
       {% assign caption = split | first | strip %}
       {% if split.size > 1  %}<div>@ {{ split[1] }}</div>{% endif %}
     </div>
-    {% if caption != "-" and caption != "" %}{{ caption | markdownify }}{% endif %}
   </figcaption>
 </figure>
 {% endfor %}
