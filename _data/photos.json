@@ -82,13 +82,6 @@
         "caption": "Illegal grooming snap @ Shibuya", 
         "alt": "A white pomeranian dog sits in a dog grooming shop, with a 'no photos' sign in the window.", 
         "createdAt": "2024-08-09T12:28:09.000Z"
-        },  
-    { 
-        "id": "2024-06-27-wedding",
-        "ratio": 0.75, 
-        "caption": "Wedding day!", 
-        "alt": "A suited and booted, bearded bloke rides a rickshaw with a woman in a silver dress and sunglasses, both smiling.", 
-        "createdAt": "2024-06-27T12:28:09.000Z"
         },       
 { 
         "id": "2024-06-14-jcb",
@@ -173,13 +166,6 @@
         "caption": "Ima let you finish, but Cavas had one of the best shopfronts of all time! @ Tulum, Mexico", 
         "alt": "A shop called Cavas has signage above the door that reads 'They have entered the most beautiful women in the world through this door.'", 
         "createdAt": "2023-12-30T12:28:09.000Z"
-        },
-        { 
-        "id": "2023-12-28-miami",
-        "ratio": 0.56, 
-        "caption": "Nadine in Shoreditch on Steroids @ Miami", 
-        "alt": "Four dogs having a nap on the pavement, soaked in the morning sun.", 
-        "createdAt": "2023-12-28T12:28:09.000Z"
         },
         { 
         "id": "2023-12-26-miami",
@@ -285,13 +271,6 @@
         "caption": "Safety first @ Como, Italy", 
         "alt": "A heavily balding but extremely tanned man holds onto a life jacket, stands on a small boat and looks up at a smartphone camera.", 
         "createdAt": "2022-06-26T12:28:09.000Z"
-        },
-        { 
-        "id": "2022-04-16-hurghada",
-        "ratio": 0.75, 
-        "caption": "Desert roadside @ Luxor, Egypt", 
-        "alt": "A girl walks across a shot of a road that splits a desert in half. A pick-up truck hurtles past the shot, too.", 
-        "createdAt": "2022-04-16T12:28:09.000Z"
         },
         { 
         "id": "2022-04-16-hurgada-dogs",
