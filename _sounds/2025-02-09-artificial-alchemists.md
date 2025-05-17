@@ -7,9 +7,9 @@ alt: 'artwork for Artificial Alchemists Side Missions episode'
 feature: 1
 ---
 
-A [Side Missions](https://sidemissions.substack.com/) production.
+A [Side Missions](https://sidemissions.substack.com/) production feat. Izumi Suzuki, Holly Herndon, Mat Dryhurst, Goldie, Mozart and Lupe Fiasco.
 
-feat. Izumi Suzuki, Holly Herndon, Mat Dryhurst, Goldie, Mozart and Lupe Fiasco.
+How technophobes harnessing the first Digital Audio Workstations, aristocrats ripping off epoch-making composers and god MCs arguing with Google Devs help me to imagine an AI artistic practice with soul.
 
 {% include player.html title="Artificial Alchemists" src="https://mixes.ewen.io/2025-02-09-artificial-alchemists.mp3" %}
 
