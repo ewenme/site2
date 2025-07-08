@@ -11,7 +11,7 @@ A [Side Missions](https://sidemissions.substack.com/) production feat. Izumi Suz
 
 How technophobes harnessing the first Digital Audio Workstations, aristocrats ripping off epoch-making composers and god MCs arguing with Google Devs help me to imagine an AI artistic practice with soul.
 
-{% include player.html title="Artificial Alchemists" src="https://mixes.ewen.io/2025-02-09-artificial-alchemists.mp3" %}
+{% include player.html title="Artificial Alchemists" src="https://sounds.ewen.io/2025-02-09-artificial-alchemists.mp3" %}
 
 Intro music: pentagon - Heal
 

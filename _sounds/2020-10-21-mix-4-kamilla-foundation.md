@@ -9,7 +9,7 @@ feature: 1
 
 setting pace in the guestmix for brunch + kamilla on foundation fm, originally aired 21 oct. 2020
 
-{% include player.html title="mix 4 kam" src="https://mixes.ewen.io/2020-10-21-mix-4-kamilla-foundation.mp3" %}
+{% include player.html title="mix 4 kam" src="https://sounds.ewen.io/2020-10-21-mix-4-kamilla-foundation.mp3" %}
 
 1. DJ Trystero - ___ [The Trilogy Tapes]
 2. IZCO (feat. Dochi) - Gifted [Rinse]
