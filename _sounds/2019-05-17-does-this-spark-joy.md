@@ -9,7 +9,7 @@ feature: 1
 
 I recorded this mix at home today, on some straight sugary, rave-tinged selections for a fun-sized (~50 minute) bliss-out. Joy is best sparked through a good system! Run the sounds + peep the tracks below + bandcamp links below below...
 
-{% include player.html title="does this spark joy" src="https://mixes.ewen.io/2019-05-17-does-this-spark-joy.mp3" %}
+{% include player.html title="does this spark joy" src="https://sounds.ewen.io/2019-05-17-does-this-spark-joy.mp3" %}
 
 1.  Magic Mountain High - All Aboard [*Future Times*]
 2.  Sinjin Hawke, CanBlaster - Monolith (Overture) [Canblaster Remix] [*Fractal

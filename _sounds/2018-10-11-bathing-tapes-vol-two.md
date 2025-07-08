@@ -9,7 +9,7 @@ feature: 0
 
 The latest edition of bathing tapes is out there, recorded at home on a Sunday a couple of months ago. The mix is mostly stuff that came out in the second half of this year that I've been bumping. There's frenetic techno and grime combinations, deviant pop and electro runs, and euphoric breakbeats rubbing against lonely bassweight jams. As always, credit and love to the makers of all this music, filled me up all autumn and beyond.
 
-{% include player.html title="bathing tapes vol. two" src="https://mixes.ewen.io/2018-10-11-bathing-tapes-vol-two.mp3" %}
+{% include player.html title="bathing tapes vol. two" src="https://sounds.ewen.io/2018-10-11-bathing-tapes-vol-two.mp3" %}
 
 Pariah, _Rain Soup_ [Houndstooth, 2018]  
 Scratcha DVA - _Ikonika Type Beat_ [Allyall Records, 2018]  

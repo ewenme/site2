@@ -11,7 +11,7 @@ A [Side Missions](https://sidemissions.substack.com/) production feat. Lao Tzu, 
 
 How to carve your own meaning from ancient philosophy, sprinkle over some Theo Parrish, then imbue your craft with it. Set to one take on a pair of Technics 1210s.
 
-{% include player.html title="The Way to DJ" src="https://mixes.ewen.io/2025-05-16-the-way-to-dj.mp3" %}
+{% include player.html title="The Way to DJ" src="https://sounds.ewen.io/2025-05-16-the-way-to-dj.mp3" %}
 
 Intro music: pentagon - Heal
 

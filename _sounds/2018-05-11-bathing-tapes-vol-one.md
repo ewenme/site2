@@ -9,7 +9,7 @@ feature: 0
 
 Last month I recorded a studio mix at home on the 1210s, the first volume of an occasional series for me to share sounds I'm bumping heavy. I'm calling it _bathing tapes_ (don't @ me, [Nigo](https://en.wikipedia.org/wiki/Nigo)), 'cos most of the jams won't sound out of place during an extended exfoliation session. but you should enjoy the soothing vibes wherever you're at. Find experimental techno diversions, Houston hip-hop, ethereal footwork waves, bleepy dancehall and more sweet infusions inside.
 
-{% include player.html title="bathing tapes vol. one" src="https://mixes.ewen.io/2018-05-11-bathing-tapes-vol-one.mp3" %}
+{% include player.html title="bathing tapes vol. one" src="https://sounds.ewen.io/2018-05-11-bathing-tapes-vol-one.mp3" %}
 
 _Ciel - Terracotta [Allergy Season x Discwoman, 2018]_  
 _Leif - Moment Beat [Galdoors, 2016]_  

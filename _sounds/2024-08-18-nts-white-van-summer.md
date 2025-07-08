@@ -13,4 +13,4 @@ feature: 1
 
 [https://www.nts.live/shows/heatwave/episodes/heatwave-white-van-summer-w-ewen-18th-august-2024](https://www.nts.live/shows/heatwave/episodes/heatwave-white-van-summer-w-ewen-18th-august-2024)
 
-{% include player.html title="White Van Summer" src="https://mixes.ewen.io/2024-08-18-white-van-summer.mp3" %}
+{% include player.html title="White Van Summer" src="https://sounds.ewen.io/2024-08-18-white-van-summer.mp3" %}
