@@ -7,7 +7,7 @@ title: Reading
 {% assign reads = site.reading | sort: "date" | reverse %}
 {% for read in reads %}
   <li class="line">
-        {{ read.title }}
+        <a href="{{ read.url }}">{{ read.title }}</a>
         <br>
         {% if read.stars %}
         <span class="stars" aria-label="{{ read.stars }} stars">

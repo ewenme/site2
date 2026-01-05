@@ -127,7 +127,7 @@ root: true
   {% assign reads = site.reading | sort: "date" | reverse | slice: 0, 5 %} {% for read in reads
   %}
   <li class="line">
-    {{ read.title }}<br />
+    <a href="{{ read.url }}">{{ read.title }}</a><br />
     {% if read.stars %}
     <span class="stars" aria-label="{{ read.stars }} stars">
       {% for i in (1..5) %}
