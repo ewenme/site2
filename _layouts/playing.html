@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<section class="details">
+  <h3>Details</h3>
+  <ul>
+    <li>{{ page.title }} by {{ page.developer }}</li>
+    {% if page.platform %}
+    <li><strong>Platform:</strong> {{ page.platform }}</li>
+    {% endif %}
+    {% if page.year %}
+    <li><strong>Published:</strong> {{ page.year }}</li>
+    {% endif %}
+  </ul>
+</section>

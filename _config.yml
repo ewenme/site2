@@ -24,6 +24,11 @@ plugins:
 defaults:
   -
     scope:
-      path: "" # an empty string here means all files in the project
+      path: "_reading" # an empty string here means all files in the project
     values:
       layout: "default"
+  -
+    scope:
+      path: "_playing"
+    values:
+      layout: "playing"
