@@ -26,7 +26,7 @@ defaults:
     scope:
       path: "_reading" # an empty string here means all files in the project
     values:
-      layout: "default"
+      layout: "reading"
   -
     scope:
       path: "_playing"
