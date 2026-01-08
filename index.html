@@ -150,3 +150,36 @@ root: true
   </li>
   {% endfor %}
 </ul>
+
+<hr class="hr" />
+
+<h2 class="text">Playing</h2>
+<a href="/playing" class="styled-link">All plays</a
+><a href="/playing.xml" class="styled-link">RSS</a>
+<ul aria-label="playing" class="terminal">
+  {% assign games = site.playing | sort: "date" | reverse | slice: 0, 5 %} {% for game in games
+  %}
+  <li class="line">
+    <a href="{{ game.url }}">{{ game.title }}</a><br />
+    {% if game.stars %}
+    <span class="stars" aria-label="{{ game.stars }} stars">
+      {% for i in (1..5) %}
+        {% if i <= game.stars %}
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor" style="display: inline-block; vertical-align: middle;">
+            <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+          </svg>
+        {% else %}
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" style="display: inline-block; vertical-align: middle;">
+            <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+          </svg>
+        {% endif %}
+      {% endfor %}
+    </span>
+    <br />
+    {% endif %}
+    <time class="monospace" datetime="{{ game.date | date_to_xmlschema }}"
+      >{{ game.date | date: "%B %e, %Y" }}</time
+    >
+  </li>
+  {% endfor %}
+</ul>
