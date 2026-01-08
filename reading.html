@@ -1,0 +1,17 @@
+---
+layout: default
+title: Reading
+---
+
+<ul aria-label="reading" class="terminal">
+{% assign reads = site.reading | sort: "date" | reverse %}
+{% for read in reads %}
+  <li class="line">
+        <a href="{{ read.url }}">{{ read.title }}</a>
+        <br>
+        {% include stars.html stars=read.stars %}
+        <br>
+        <time class="monospace" datetime="{{ read.date | date_to_xmlschema }}">{{ read.date | date: "%B %e, %Y" }}</time>
+  </li>
+{% endfor %}
+</ul>
