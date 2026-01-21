@@ -381,12 +381,10 @@
         {% endif %}
         {{ content }}
       {% endcapture %}
-      {% if page.collection == "posts" or page.collection == "pages" or page.collection == "sounds" %}
+      {% if page.collection == "posts" %}
         <article>
           {{ content_and_then_some }}
         </article>
-      {% elsif page.collection == "notes" %}
-        {{ content_and_then_some }}
       {% else %}
         {{ content_and_then_some }}
       {% endif %}
