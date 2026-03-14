@@ -1,0 +1,17 @@
+---
+layout: default
+title: Watching
+---
+
+<ul aria-label="watching" class="terminal">
+{% assign films = site.watching | sort: "date" | reverse %}
+{% for film in films %}
+  <li class="line">
+        <a href="{{ film.url }}">{{ film.title }}</a>
+        <br>
+        {% include stars.html stars=film.stars %}
+        <br>
+        <time class="monospace" datetime="{{ film.date | date_to_xmlschema }}">{{ film.date | date: "%B %e, %Y" }}</time>
+  </li>
+{% endfor %}
+</ul>
