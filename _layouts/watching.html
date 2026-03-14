@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<section class="details">
+  <h3>Details</h3>
+  <ul>
+    <li>{{ page.title }} directed by {{ page.director }}</li>
+    {% if page.year %}
+    <li><strong>Released:</strong> {{ page.year }}</li>
+    {% endif %}
+  </ul>
+</section>

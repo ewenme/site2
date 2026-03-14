@@ -19,6 +19,8 @@ collections:
     output: true
   reading:
     output: true
+  watching:
+    output: true
 plugins:
   - jekyll-sitemap
 defaults:
@@ -32,3 +34,8 @@ defaults:
       path: "_playing"
     values:
       layout: "playing"
+  -
+    scope:
+      path: "_watching"
+    values:
+      layout: "watching"
