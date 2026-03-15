@@ -116,7 +116,7 @@ root: true
 
 <hr class="hr" />
 
-<h2 class="text">Log</h2>
+<h2 class="text">Logging</h2>
 <a href="/log" class="styled-link">Full log</a>
 <ul aria-label="log" class="terminal">
   {% assign log = site.reading | concat: site.playing | concat: site.watching | sort: "date" | reverse | slice: 0, 5 %}
