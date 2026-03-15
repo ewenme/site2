@@ -1,0 +1,34 @@
+---
+layout: default
+title: Log
+pagination:
+  enabled: true
+  collection: watching
+  per_page: 20
+  sort_field: "date"
+  sort_reverse: true
+  permalink: '/:num/'
+  title: ':title'
+---
+
+{% include log-filter-nav.html %}
+
+<ul aria-label="log" class="terminal">
+{% for item in paginator.posts %}
+  {% include log-item.html %}
+{% endfor %}
+</ul>
+
+{% if paginator.total_pages > 1 %}
+<nav aria-label="Log pagination">
+  {% if paginator.previous_page %}
+  <a href="{{ paginator.previous_page_path }}" class="styled-link">newer</a>
+  <hr class="inline-hr" />
+  {% endif %}
+  <span class="monospace">{{ paginator.page }} / {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+  <hr class="inline-hr" />
+  <a href="{{ paginator.next_page_path }}" class="styled-link">older</a>
+  {% endif %}
+</nav>
+{% endif %}

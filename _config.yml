@@ -21,8 +21,14 @@ collections:
     output: true
   watching:
     output: true
+pagination:
+  enabled: true
+  per_page: 20
+  sort_field: "date"
+  sort_reverse: true
 plugins:
   - jekyll-sitemap
+  - jekyll-paginate-v2
 defaults:
   -
     scope:

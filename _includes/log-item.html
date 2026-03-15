@@ -1,0 +1,12 @@
+<li class="line">
+  <span class="monospace">[{{ item.collection }}]</span>
+  <a href="{{ item.url }}">{{ item.title }}</a>
+  {% if item.collection == "reading" %}<span class="monospace">by {{ item.author }}</span>
+  {% elsif item.collection == "playing" %}<span class="monospace">by {{ item.developer }}</span>
+  {% elsif item.collection == "watching" %}<span class="monospace">dir. {{ item.director }}</span>
+  {% endif %}
+  <br>
+  {% include stars.html stars=item.stars %}
+  <br>
+  <time class="monospace" datetime="{{ item.date | date_to_xmlschema }}">{{ item.date | date: "%B %e, %Y" }}</time>
+</li>

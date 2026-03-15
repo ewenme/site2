@@ -38,10 +38,6 @@ root: true
   <a href="https://github.com/ewenme" rel="me">GitHub</a>
   <hr class="inline-hr" />
   <a href="https://www.discogs.com/user/ewen_" rel="me">Discogs</a>
-  <hr class="inline-hr" />
-  <a href="https://bandcamp.com/ewen_" rel="me">Bandcamp</a>
-  <hr class="inline-hr" />
-  <a href="https://letterboxd.com/ewenme/" rel="me">Letterboxd</a>
 </nav>
 
 <hr class="hr" />
@@ -120,97 +116,19 @@ root: true
 
 <hr class="hr" />
 
-<h2 class="text">Watching</h2>
-<a href="/watching" class="styled-link">All films</a>
-<ul aria-label="watching" class="terminal">
-  {% assign films = site.watching | sort: "date" | reverse | slice: 0, 5 %} {% for film in films
-  %}
+<h2 class="text">Log</h2>
+<a href="/log" class="styled-link">Full log</a>
+<ul aria-label="log" class="terminal">
+  {% assign log = site.reading | concat: site.playing | concat: site.watching | sort: "date" | reverse | slice: 0, 5 %}
+  {% for item in log %}
   <li class="line">
-    <a href="{{ film.url }}">{{ film.title }}</a><br />
-    {% if film.stars %}
-    <span class="stars" aria-label="{{ film.stars }} stars">
-      {% for i in (1..5) %}
-        {% if i <= film.stars %}
-          <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor" style="display: inline-block; vertical-align: middle;">
-            <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
-          </svg>
-        {% else %}
-          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" style="display: inline-block; vertical-align: middle;">
-            <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
-          </svg>
-        {% endif %}
-      {% endfor %}
-    </span>
+    <span class="monospace">[{{ item.collection }}]</span>
+    <a href="{{ item.url }}">{{ item.title }}</a>
     <br />
-    {% endif %}
-    <time class="monospace" datetime="{{ film.date | date_to_xmlschema }}"
-      >{{ film.date | date: "%B %e, %Y" }}</time
-    >
-  </li>
-  {% endfor %}
-</ul>
-
-<hr class="hr" />
-
-<h2 class="text">Reading</h2>
-<a href="/reading" class="styled-link">All reads</a
-><a href="/reading.xml" class="styled-link">RSS</a>
-<ul aria-label="reading" class="terminal">
-  {% assign reads = site.reading | sort: "date" | reverse | slice: 0, 5 %} {% for read in reads
-  %}
-  <li class="line">
-    <a href="{{ read.url }}">{{ read.title }}</a><br />
-    {% if read.stars %}
-    <span class="stars" aria-label="{{ read.stars }} stars">
-      {% for i in (1..5) %}
-        {% if i <= read.stars %}
-          <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor" style="display: inline-block; vertical-align: middle;">
-            <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
-          </svg>
-        {% else %}
-          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" style="display: inline-block; vertical-align: middle;">
-            <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
-          </svg>
-        {% endif %}
-      {% endfor %}
-    </span>
+    {% include stars.html stars=item.stars %}
     <br />
-    {% endif %}
-    <time class="monospace" datetime="{{ read.date | date_to_xmlschema }}"
-      >{{ read.date | date: "%B %e, %Y" }}</time
-    >
-  </li>
-  {% endfor %}
-</ul>
-
-<hr class="hr" />
-
-<h2 class="text">Playing</h2>
-<a href="/playing" class="styled-link">All plays</a
-><a href="/playing.xml" class="styled-link">RSS</a>
-<ul aria-label="playing" class="terminal">
-  {% assign games = site.playing | sort: "date" | reverse | slice: 0, 5 %} {% for game in games
-  %}
-  <li class="line">
-    <a href="{{ game.url }}">{{ game.title }}</a><br />
-    {% if game.stars %}
-    <span class="stars" aria-label="{{ game.stars }} stars">
-      {% for i in (1..5) %}
-        {% if i <= game.stars %}
-          <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor" style="display: inline-block; vertical-align: middle;">
-            <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
-          </svg>
-        {% else %}
-          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" style="display: inline-block; vertical-align: middle;">
-            <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
-          </svg>
-        {% endif %}
-      {% endfor %}
-    </span>
-    <br />
-    {% endif %}
-    <time class="monospace" datetime="{{ game.date | date_to_xmlschema }}"
-      >{{ game.date | date: "%B %e, %Y" }}</time
+    <time class="monospace" datetime="{{ item.date | date_to_xmlschema }}"
+      >{{ item.date | date: "%B %e, %Y" }}</time
     >
   </li>
   {% endfor %}
