@@ -21,21 +21,30 @@ collections:
     output: true
   watching:
     output: true
+pagination:
+  enabled: true
+  per_page: 20
+  sort_field: "date"
+  sort_reverse: true
 plugins:
   - jekyll-sitemap
+  - jekyll-paginate-v2
 defaults:
   -
     scope:
       path: "_reading" # an empty string here means all files in the project
     values:
       layout: "reading"
+      permalink: /log/reading/:name/
   -
     scope:
       path: "_playing"
     values:
       layout: "playing"
+      permalink: /log/playing/:name/
   -
     scope:
       path: "_watching"
     values:
       layout: "watching"
+      permalink: /log/watching/:name/
