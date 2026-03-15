@@ -35,16 +35,16 @@ defaults:
       path: "_reading" # an empty string here means all files in the project
     values:
       layout: "reading"
-      permalink: /log/:name/
+      permalink: /log/reading/:name/
   -
     scope:
       path: "_playing"
     values:
       layout: "playing"
-      permalink: /log/:name/
+      permalink: /log/playing/:name/
   -
     scope:
       path: "_watching"
     values:
       layout: "watching"
-      permalink: /log/:name/
+      permalink: /log/watching/:name/
