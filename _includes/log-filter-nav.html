@@ -1,10 +1,10 @@
 <nav aria-label="Filter log">
   <span>what have u been...</span>
-  <a href="/log/books/" class="styled-link" {% if page.url contains "/log/books" %}aria-current="page"{% endif %}>reading?</a>
+  <a href="/log/reading/" class="styled-link" {% if page.url contains "/log/reading" %}aria-current="page"{% endif %}>reading?</a>
   <hr class="inline-hr" />
-  <a href="/log/games/" class="styled-link" {% if page.url contains "/log/games" %}aria-current="page"{% endif %}>playing?</a>
+  <a href="/log/playing/" class="styled-link" {% if page.url contains "/log/playing" %}aria-current="page"{% endif %}>playing?</a>
   <hr class="inline-hr" />
-  <a href="/log/films/" class="styled-link" {% if page.url contains "/log/films" %}aria-current="page"{% endif %}>watching?</a>
+  <a href="/log/watching/" class="styled-link" {% if page.url contains "/log/watching" %}aria-current="page"{% endif %}>watching?</a>
   <hr class="inline-hr" />
   <a href="/log/" class="styled-link" {% if page.url == "/log/" %}aria-current="page"{% endif %}>ALL</a>
 </nav>
