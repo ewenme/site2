@@ -1,0 +1,15 @@
+---
+title: "Death Stranding 2: On The Beach"
+developer: Kojima Productions
+platform: PlayStation 5
+year: 2025
+date: 2026-05-01
+stars: 5
+---
+I basically adored this game and the vibes are immaculate in ways that are difficult to explain to someone who doesn't understand the default cringe factor that permeates most big budget releases. Sam and his girls are a great hang, the thing regularly looks sublime, sprinkled on top of an endlessly satisfying core gameplay loop. 
+
+I was raised on Kojima and his work looms impossibly large from my vantage point on art and life. I have to consider the possibility that this rewiring inoculates me from overwrought Kojima-isms, but from where I was sitting he played the story basically straight and channeled his trademark flourishes beautifully. The needle drops kept hitting (although I maybe wish the Caroline Polachek was held back for the endgame). I played it gently over the course of several months, usually tucking into a delivery or some road building before bed. This rhythm helped me to form a meditative and symbiotic relationship with Sam, immersing myself one job at a time. I put the controller down after rolling credits and haven't dipped into the post-game.
+
+My main criticism is not so much aimed at the game but at myself as a player. I've decided that the correct way to play this game is to actively notice when you are using tools the game provides (vehicles, infrastructure, etc.) in a way that removes all friction from traversal, and self-impose moderation (for the main missions, at least). On one level, I read the games tagline, "should we have connected?", as a challenge to the player to set their own boundaries when convenience is available at the tap of a button. I failed to do this many times, lazily ramming my bike up and over a mountain that begged to be climbed with care. In the same way that I tire of game reviews as "product" reviews, I accept the premise that intentionally "bad" game design might be a meaningful narrative conceit. A Kojima game in 2026 has a core audience of middle-aged men and so the expectations on the player can be raised. 
+
+_Metal Gear Solid 2_ was, in many ways, an up-middle-finger to the player who wanted the creator of Solid Snake to get back to his desk and serve up the direct sequel that the fans so craved. DS2 has some of the same proclivities. Sam is cajoled into linking up Australia by an insistent Fragile and crew when he wants to sit at home and grieve. Lou's death could be considered a rug pull akin to the introduction of Raiden, the Mexico chapter standing in for the Tanker section of MGS2. The twists that reframes the entire journey are ultimately in service of colouring in Sam so that he ends the game as a fully rounded, beautiful person who's persistence brings beauty after loss. 
