@@ -1,13 +1,18 @@
-.PHONY: reading watching
+VAULT ?= $(HOME)/Documents/ewen
+RSYNC  = rsync -a --delete --include='*.md' --exclude='*'
+
+.PHONY: sync publish reading playing watching
 
 reading:
-	rm -f _reading/*.md
-	cp ~/Documents/ewen/logs/books/* _reading
-
+	$(RSYNC) $(VAULT)/logs/books/ _reading/
 playing:
-	rm -f _playing/*.md
-	cp ~/Documents/ewen/logs/games/* _playing
-
+	$(RSYNC) $(VAULT)/logs/games/ _playing/
 watching:
-	rm -f _watching/*.md
-	cp ~/Documents/ewen/logs/films/* _watching
+	$(RSYNC) $(VAULT)/logs/films/ _watching/
+
+sync: reading playing watching
+
+publish: sync
+	git add _reading _playing _watching
+	@git diff --cached --quiet && echo "nothing to publish" || \
+	  (git commit -m "sync logs" && git push)
