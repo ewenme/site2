@@ -13,7 +13,7 @@ There was a [Mixmag article a few years back about "silly music"](https://mixmag
 
 There's probably a throughline here that a talented writer could make a compelling story out of. For now, I've tried to round up some genres of comedy to do with UK rave culture that I can remember.
 
-### The skit
+## The skit
 
 A staple of US hip-hop, the rap skit often punctuates a record with humour (although not always) in the shape of a short interlude. Jeff Weiss penned [A History of the Hip Hop Skit for Red Bull](https://daily.redbullmusicacademy.com/2015/07/hip-hop-skits-history). My favourite example of the genre in dance music has to be the Grain (Artwork's techno project) skit, "Ralphy!", on Fat Cat Records in 1999.
 
@@ -23,7 +23,7 @@ In it, Grain phones in to a radio station insisting his dog, Ralphy, can play th
 
 N.B. the Artwork + Sgt Pokes show on Rinse (RIP) is comedy gold and I would be shocked if it didn't inspire "The Nasal Hour". [Here's a classic from April 2014](https://soundcloud.com/rinsefm/artwork280414).
 
-### The track name
+## The track name
 
 What it says on the tin. Track names are funny in all sorts of ways in dance music because often the track being made is purely functional, hence the "untitled" trend in faceless Berlin techno circles. Still, some producers at least use them as an opportuntity for a cheap laugh.
 
@@ -31,7 +31,7 @@ What it says on the tin. Track names are funny in all sorts of ways in dance mus
 
 > So yeah, ecstasy, I don't know, it's really crass, but on every level it works. It's funny to reference that on a weird, moody, thoughtful record. But at the same time it's totally sincere. I think ecstasy is an amazing drug, and I like the fact that this music is linked to it.
 
-### The shitposter
+## The shitposter
 
 I couldn't write this and not talk about the A1 dance music shitposter (sort of), hurfyd. While they run [a non-ironic, admirable YouTube channel](https://www.youtube.com/channel/UCzeR0_RWnpNHe6y4DTLwE5Q), the rest of their online presence is mostly dedicated to [delicious Joy Orbison content](https://twitter.com/hurfyd/status/1115269570988781568). As a Joy stan I feel incredibly seen with this sort of thing. It's crucial to note that this is a persona that they've painstakingly crafted over the course of years. It's basically the UK's answer to Nathan Fielder.
 
@@ -43,7 +43,7 @@ This feels like the right place to mention a short-lived but cult favourite yout
 
 {% include youtube.html id="LgWiLKu1bFs" %}
 
-### The mainstream satire
+## The mainstream satire
 
 Finally, there's been times when UK rave culture has been satirised in "the mainstream". The first case of this I encountered was Kevin & Perry Go Large (2000), a feature film spin-off from Harry Enfield's "Kevin the Teenager" sketch. While the original sketch wasn't specifically about dance music, the film follows them to Ibiza in a bid to become DJs and had a Trance-heavy soundtrack accompaniment that [Ministry of Sound ranked for April Fools day](https://www.ministryofsound.com/posts/articles/2020/april/ranked-the-kevin-perry-soundtrack/). It was the top-grossing film at the British box office over the Easter weekend of 2000, apparently, so seemed to cut through.
 
@@ -51,7 +51,7 @@ Finally, there's been times when UK rave culture has been satirised in "the main
 
 A more modern and sincere example is People Just Do Nothing, the BBC satirical comedy featuring Kurupt FM that ran for five seasons from 2014 to 2018. Crucially, much of the core cast members who wrote the show grew up in the Brentford UK Garage scene. They've [called out offensive working-class depictions by other comedians like Lee Nelson](https://www.nme.com/news/tv/people-just-do-nothing-creator-hits-out-at-actuall-873298). It's not really from the same lineage as characters like Ali G or Kevin & Perry, I'd put it in the same boat as a show like Only Fools and Horses.
 
-### The up middle finger
+## The up middle finger
 
 I wouldn't strictly classify it as comedy (or rave, even), but the online footprint of [Hype Williams'](https://www.discogs.com/artist/1874027-Hype-Williams-2) is jokes. It's actually tapped even writing more words about it. Basically, Dean Blunt and Inga Copeland are the only known members of a long-running project that is said to move on to new artists every five years (starting in 2005, allegedly). Any time a white, Wire mag core music journo has tried to go high-brow with them, it's been a write-off in the best way. This is a bit from [a Rory Gibb interview for the Quietus](https://thequietus.com/articles/06600-hype-williams-interview) that is too perfect to not close on.
 
