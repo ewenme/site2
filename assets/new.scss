@@ -21,6 +21,7 @@ html { font-size: 100%; font: -apple-system-body; }
   --photoBackground: #f4f4f4;
 
   --sansserif: 'IBM Plex Sans', system-ui, sans-serif;
+  --serif: Charter, 'Bitstream Charter', 'Sitka Text', Cambria, serif;
   --monospace: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
 }
 
@@ -56,6 +57,14 @@ body {
 
 body, kbd {
   font-family: var(--sansserif);
+}
+
+.prose {
+  font-family: var(--serif);
+
+  :is(h1, h2, h3, h4, h5, h6) {
+    font-family: var(--sansserif);
+  }
 }
 
 a {
@@ -94,7 +103,7 @@ header {
   padding-top: 2.5em;
 }
 
-footer {
+main {
   padding-bottom: 2.5em;
 }
 
@@ -108,7 +117,7 @@ footer {
 
 h1, h2, h3, h4, h5, h6 {
   margin: 1.4em 0 1em 0;
-  font-weight: normal;
+  font-weight: 700;
 }
 
 .logo {
@@ -152,7 +161,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .h1 {
   font-size: 1.2rem;
-  font-weight: normal;
+  font-weight: 700;
   margin-bottom: 0;
 }
 
@@ -167,7 +176,7 @@ h1, h2, h3, h4, h5, h6 {
 .text {
   margin-right: .4rem;
   font-size: inherit;
-  font-weight: normal;
+  font-weight: 700;
   display: inline-block;
   margin-top: 0;
 }
@@ -321,7 +330,7 @@ article hr {
 }
 
 article {
-  font-size: 1rem;
+  font-size: 1.1rem;
 }
 
 .smol {
@@ -480,7 +489,7 @@ figure {
 }
 
 [data-page-type="static"] {
-  h2 { font-size: 1.1em; font-weight: 500; color: var(--secondaryTextColor) }
+  h2 { font-size: 1.1em; font-weight: 700; color: var(--secondaryTextColor) }
   h2 + p { margin-top: 0em; }
 }
 

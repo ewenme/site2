@@ -6,7 +6,7 @@
     <link rel="alternate" type="application/rss+xml" href="/notes.xml">
     <link rel="icon" href="/assets/fav.svg" type="image/svg+xml" sizes="24x24">
     <!--link rel="icon" href="/assets/fav.png" type="image/png" sizes="96x96"-->
-    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;700&display=swap" rel="stylesheet">
     <link href="/assets/new.css" rel="stylesheet" type="text/css">
     {% if page.collection == "posts" %}
       <link href="/assets/syntax.css" rel="stylesheet" type="text/css">
@@ -385,8 +385,8 @@
         {% endif %}
         {{ content }}
       {% endcapture %}
-      {% if page.collection == "posts" %}
-        <article>
+      {% if page.collection == "posts" or page.collection == "reading" or page.collection == "playing" or page.collection == "watching" or page.collection == "pages" %}
+        <article class="prose">
           {{ content_and_then_some }}
         </article>
       {% else %}
@@ -428,10 +428,4 @@
     <script src="https://cdn.vidstack.io/player" type="module"></script>
     {% endif %}
   </body>
-  <footer>
-   <hr class="hr">
-   <nav aria-label="About this site">
-     <span>Site design copied from <a href="https://muan.co/">Mu-An Chiou</a>.</span>
-   </nav>
- </footer>
 </html>
