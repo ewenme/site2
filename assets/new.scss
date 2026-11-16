@@ -608,12 +608,12 @@ figcaption {
 // @media (max-height: 540px), (max-width: calc((100vh - 6em) * 1.5)) {
 @media (max-height: 540px), (max-width: calc(100vh * 1.4)) {
     body {
-      padding: 0 2em;
+      padding: 0 1.2em;
     }
 
     .photos-wrapper {
-      margin-left: -2em;
-      margin-right: -2em;
+      margin-left: -1.2em;
+      margin-right: -1.2em;
 
       img {
         max-height: none;
