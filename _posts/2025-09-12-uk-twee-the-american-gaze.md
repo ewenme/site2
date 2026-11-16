@@ -11,13 +11,17 @@ feature: 1
 
 In *Vassal State*, Angus Hanton goes into forensic detail about the UK’s ‘special relationship’ with the US. He examines how romanticised British companies are being increasingly run through and captured by American ones, to the extent that one in ten Brits now work for a company owned on the other side of the Atlantic. Full disclosure, I’m one of them. To quote:
 
-{% include quoteback.html title="How America bought up Britain" author="Will Dunn" url="https://www.newstatesman.com/culture/books/book-of-the-day/2024/04/how-america-bought-up-britain-vassal-state-review" text="The British characters we assign to shops – Morrisons, the working-class supermarket from Bradford, or Gail’s, the blousy bakery from Hampstead – are fictions; both are owned by US private equity firms, as are the middle-class temples of Majestic Wine and Waterstones." %}
+> The British characters we assign to shops – Morrisons, the working-class supermarket from Bradford, or Gail’s, the blousy bakery from Hampstead – are fictions; both are owned by US private equity firms, as are the middle-class temples of Majestic Wine and Waterstones.
+>
+> — Will Dunn, [How America bought up Britain](https://www.newstatesman.com/culture/books/book-of-the-day/2024/04/how-america-bought-up-britain-vassal-state-review)
 
 Every time you tap your card to pay for an American multinational’s product, the American payment provider skims off the top *again*. To put it all the way bluntly, behind a shaky facade the UK is fast-becoming a sad little island shamelessly selling off the family china.
 
 Adam Curtis’ latest singular project for the BBC, *Shifty*, compiles reams of fever dream-inducing footage from the end of the last century into a contemptuous swipe at Britains establishment for not just accepting, but gleefully celebrating, the death of any identifiable vision for the country’s future. In its final part, we see a dithering assemblage of forgettable suits trying to decide what will go into the Millennium Dome’s 14 “zones”. The bankruptcy of ideas and decaying hollowness of collective values is laid bare. This vacuum is somehow stretched by the hands of Peter Mandelson who delivers an empty impression of delight down the phone upon noticing a stale projection on the wall of a toad-in-the-hole. He declares:
 
-{% include quoteback.html title="Shifty, Part Five - The Democratisation of Everything" author="Peter Mandelson" url="https://www.bbc.co.uk/iplayer/episode/m002d2k5/shifty-series-1-5-part-five-the-democratisation-of-everything" text="I absolutely love toad in the hole. I haven’t had it since I was about six." %}
+> I absolutely love toad in the hole. I haven’t had it since I was about six.
+>
+> — Peter Mandelson, [Shifty, Part Five - The Democratisation of Everything](https://www.bbc.co.uk/iplayer/episode/m002d2k5/shifty-series-1-5-part-five-the-democratisation-of-everything)
 
 Meanwhile, something a little bit eerie is happening in UK music. Donning my tinfoil hat for a quick second, I can’t shake the feeling that it’s all connected. Central Cee, pinkpantheress and AJ Tracey all released albums recently that caught my eye. On the cover of Central’s record, *Can’t Rush Greatness*, he sports a Union Jack beanie and holds up a chain to the camera, proudly bearing a piece dedicated to Queen Lizzie II. On *Fancy That*, pinkpantheress also decided to honour our deceased ruler, wearing Crown Jewels as part of a collage also featuring a red telephone box. That same phone box is sketched out on the front of AJ Tracey’s latest effort, *Don’t Die Before You’re Dead*, in front of a stylised Big Ben and Houses of Parliament enshrouded by blue dragons.
 
@@ -56,7 +60,9 @@ Calvin Harris rode the ubiquitous, distinctly anti-regional wave of EDM in 2011 
 
 While Adele is famously private, Mark Fisher identified why her time-travelling ability marked her out as special:
 
-{% include quoteback.html title="The Slow Cancellation Of The Future" author="Mark Fisher" url="https://thequietus.com/culture/books/mark-fisher-ghosts-of-my-life-extract/" text="Take someone like the stupendously successful Adele: although her music is not marketed as retro, there is nothing that marks out her records as belonging to the 21st Century either. Like so much contemporary cultural production, Adele’s recordings are saturated with a vague but persistent feeling of the past without recalling any specific historical moment." %}
+> Take someone like the stupendously successful Adele: although her music is not marketed as retro, there is nothing that marks out her records as belonging to the 21st Century either. Like so much contemporary cultural production, Adele’s recordings are saturated with a vague but persistent feeling of the past without recalling any specific historical moment.
+>
+> — Mark Fisher, [The Slow Cancellation Of The Future](https://thequietus.com/culture/books/mark-fisher-ghosts-of-my-life-extract/)
 
 Adele is a singular, nostalgia-drenched powerhouse that has all but exited the UK music scene. She last released an album in 2021 (*30*, which was basically recorded by the start of 2020) and has limited touring since then to a two-year Las Vegas residency and ten shows at a purpose-built “Adele Arena” in Munich (plus a cringe-inducing carpool karaoke w/ James Corden) . She’s played one UK gig in eight years. None of this is intended as a critique of ability or judgement over the quality of the tunes. It’s an observation of the UK’s irrelevance in their work these days.
 
@@ -68,25 +74,43 @@ The unabashed use of national symbols like the Union Jack, red phone box and cla
 
 Ground zero for the theory of UK Twee is Central Cee’s LA Leaker’s radio freestyle back in 2022. First off, he deftly establishes a familiarity with Los Angeles culture to make the hosts feel understood and at home.
 
-{% include quoteback.html title="L.A. Leakers Freestyle" author="Central Cee" url="https://www.youtube.com/watch?v=3ZCKZnJmhx0" text="<div>They think I'm the one that can bridge the gap, huh</div><div>I came to LA to work, but first, where the bitches at?</div><div>They're tellin' me Tao or The Highlight Room</div>"%}
+> They think I'm the one that can bridge the gap, huh
+> I came to LA to work, but first, where the bitches at?
+> They're tellin' me Tao or The Highlight Room
+>
+> — Central Cee, [L.A. Leakers Freestyle](https://www.youtube.com/watch?v=3ZCKZnJmhx0)
 
 After making this peace offering, Central moves into the next phase of the freestyle which acts as a translation manual of common US parlance to the equivalent UK slang. Here’s an example:
 
-{% include quoteback.html title="L.A. Leakers Freestyle" author="Central Cee" url="https://www.youtube.com/watch?v=3ZCKZnJmhx0" text="<div>You say \"The trenches\", we say \"The ends\"</div><div>You say \"Y'all\", we say \"You lot\"</div><div>You say \"Restroom\", we say \"Toilet\"</div>"%}
+> You say "The trenches", we say "The ends"
+> You say "Y'all", we say "You lot"
+> You say "Restroom", we say "Toilet"
+>
+> — Central Cee, [L.A. Leakers Freestyle](https://www.youtube.com/watch?v=3ZCKZnJmhx0)
 
 This structure demonstrates an understanding of the local patter and does the work of bridging the gap with his own parlance for the audience. In effect, he is masterfully edging the US listener into his world. The magic trick is complete with the final phase of the freestyle, where he rattles off American references to the host’s delight:
 
-{% include quoteback.html title="L.A. Leakers Freestyle" author="Central Cee" url="https://www.youtube.com/watch?v=3ZCKZnJmhx0" text="<div>Stood outside of the night club, try make the trap line kick like Flight Club</div><div>All of my drip from Rodeo Drive, ain't none of this shit from China, huh</div><div>I don't want Nobu, I need me a yard food, so I'm in Inglewood</div>"%}
+> Stood outside of the night club, try make the trap line kick like Flight Club
+> All of my drip from Rodeo Drive, ain't none of this shit from China, huh
+> I don't want Nobu, I need me a yard food, so I'm in Inglewood
+>
+> — Central Cee, [L.A. Leakers Freestyle](https://www.youtube.com/watch?v=3ZCKZnJmhx0)
 
 This freestyle was a masterstroke, by conventional metrics. He would go on to become the first British MC to make the Billboard top 10 albums chart with *Can't Rush Greatness*. (To put this in perspective, Tinie Tempah had the best previous effort back in 2012, reaching no. 21. *The Streets* commercial crossover moment, *A Grand Don’t Come for Free*, went 4x platinum in the UK but only managed #82 on Billboard). It’s impossible to overstate how anomalous this level of mainstream US success is. In a later interview with the Guardian, he revealed the extent to which his writing style is explicitly engineered for foreign ears:
 
-{% include quoteback.html title="Central Cee Interview" author="Sheldon Pearce" url="https://www.theguardian.com/music/2023/apr/07/central-cee-interview" text="“I’ll tell you this in a mathematical way: when I rap, I never really end my lyrics on a word that could be misconstrued through my accent. I’ll never end saying ‘matter’ like ‘matt-uh’. If you” – an American – “sang ‘bitch is gay’, it would sound the same way how I say it,” he says with a grin." %}
+> “I’ll tell you this in a mathematical way: when I rap, I never really end my lyrics on a word that could be misconstrued through my accent. I’ll never end saying ‘matter’ like ‘matt-uh’. If you” – an American – “sang ‘bitch is gay’, it would sound the same way how I say it,” he says with a grin.
+>
+> — Sheldon Pearce, [Central Cee Interview](https://www.theguardian.com/music/2023/apr/07/central-cee-interview)
 
 ## Lost in Translation
 
 Stormzy, Skepta and Giggs each did a similar circuit of US Hip Hop Radio around the time when they reached their respective “peak” US stock. Things went down differently, shall we say. In 2015, Hot 97’s Peter Rosenberg did a video with Stormzy on GRM Daily called “Bagel And Shots”. The pair take a drive around Shoreditch, eating bagels on Brick Lane, drinking shots at Boxpark and talking about transatlantic musical appeal. What strikes me watching this back now is the deference and permission that a young Stormzy gives, and the ease with which Rosenberg receives it:
 
-{% include quoteback.html title="Bagel And Shots: Stormzy & Hot 97's Peter Rosenberg" author="Hot 97" url="https://www.youtube.com/watch?v=BGOfP-c0abs" text="<div>Stormzy: Do you think it’s possible to keep it so British and cross-over, for you guys, over [there]?</div><div>Rosenberg: I think it’s going to happen. It’s going to take someone like you, or Skepta…let me put it this way, though. It either has to have a hook that for some reason doesn’t sound that British, or it has to be so different but funny, or amusing, or catchy in someway.</div>" %}
+> Stormzy: Do you think it’s possible to keep it so British and cross-over, for you guys, over [there]?
+>
+> Rosenberg: I think it’s going to happen. It’s going to take someone like you, or Skepta…let me put it this way, though. It either has to have a hook that for some reason doesn’t sound that British, or it has to be so different but funny, or amusing, or catchy in someway.
+>
+> — Hot 97, [Bagel And Shots: Stormzy & Hot 97's Peter Rosenberg](https://www.youtube.com/watch?v=BGOfP-c0abs)
 
 Unironically, Rosenberg brings up his love for *The Office* (UK) moments later, *the* prototypical example of a UK cultural phenomenon that had to be re-packaged into a brand-new show for American audiences. For anyone unaware, this bloke’s public persona is that of the backpack-rap lifer, the true music nerd “keeping one ear to the ground at all times”. Yet, he all but states that a British MC cannot land in the US with authentic British styles. Stormzy reads between the lines and lends an olive branch in the shape of Skepta’s NYC link-up with ASAP Bari, *It Ain’t Safe*. Pete provides positive reinforcement.
 
@@ -94,7 +118,13 @@ At the close of the video, Stormzy freestyles over Ruff Sqwad instrumental *Pied
 
 A few months later and Skepta is guesting on Peter Rosenberg’s *Real Late* Hot 97 radio show. It’s an odd affair. Skepta is palpably vulnerable, going into moving detail about the trauma he and a previous girlfriend experienced following a miscarriage, then dealing with the loss of a close friend. Rosenberg, to his credit, shares a genuinely touching anecdote about recounting memories of his wife’s deceased brother. Skep succinctly explains how music curiosity only seems to work in one direction:
 
-{% include quoteback.html title="Skepta on Real Late with Peter Rosenberg!" author="Hot 97" url="https://www.youtube.com/watch?v=DJssn3bcUtM" text="<div>Skepta: This is what people don’t know about you. This is the stuff that people laugh at you about.</div><div>Rosenberg: What were some of those? What did he [Virgil Abloh] tell you?</div><div>Skepta: Just like my accent and stuff, you get what I’m saying. But that’s your identity, so carry on doing what you’re doing. It might feel like people are always like “I can’t understand you” or “I don’t understand what he’s saying”, but, bro, we don’t understand what Young Thug says. Someone from New York speaks completely different to Chief Keef. I couldn’t understand  what Keef was saying when he first started, but I liked the story. He was giving me the story so raw and so real that I had to, I want to know what he’s saying.</div>" %}
+> Skepta: This is what people don’t know about you. This is the stuff that people laugh at you about.
+>
+> Rosenberg: What were some of those? What did he [Virgil Abloh] tell you?
+>
+> Skepta: Just like my accent and stuff, you get what I’m saying. But that’s your identity, so carry on doing what you’re doing. It might feel like people are always like “I can’t understand you” or “I don’t understand what he’s saying”, but, bro, we don’t understand what Young Thug says. Someone from New York speaks completely different to Chief Keef. I couldn’t understand  what Keef was saying when he first started, but I liked the story. He was giving me the story so raw and so real that I had to, I want to know what he’s saying.
+>
+> — Hot 97, [Skepta on Real Late with Peter Rosenberg!](https://www.youtube.com/watch?v=DJssn3bcUtM)
 
 Can you spot the difference? These artists have genuine fans across the states, but these interactions were all characterised by an apparent lack of curiosity and glaring gaps in foundational knowledge you would expect from professionals. To a young hopeful taking all this in, a chilling crossroad emerges — carry on authentic British musical traditions and make peace with disappointing the immovable object of American taste, or lean in to quaint ideas of Britishness for suitable export.
 
@@ -102,7 +132,9 @@ Can you spot the difference? These artists have genuine fans across the states, 
 
 On a recent episode of Chuckie and Poet’s HC Podcast, Elijah sat on the sofa and had words for UK radio programming. In particular, the normalisation of BBC Radio 1Xtra (a UK taxpayer-funded station) filling daytime playlists with stale American-made music, culminating in the genuine horror of Joe Budden’s now twenty-year old *Pump it Up* getting spins at half nine (AM) on Mother’s Day, with chest. The conversation moves around discussions of US music monopolisation in spaces critical for British artist development, Sunday morning as a protected time for honouring heritage musical styles and the importance of fostering local music scenes through grassroots music policies in the rave. This analysis of the UK music industry, from primetime to grassroots, is crucial to understanding not where “growth” has stalled but what vital ground has been given up. The “middle class” of British music, much like the countries, is under attack.
 
-{% include quoteback.html title="HCPOD: RADIO" author="Elijah" url="https://www.youtube.com/watch?v=rufRdhJTCtE" text="Turn on the radio and it sounds like 20 years ago, it doesn’t even sound like ten. Now we’ve got like a generation that don’t even believe that you could have a radio that sounded mostly UK, or they haven’t been to a rave that’s mostly UK. The first things that we went to — [UK] Garage, Grime, all those things — yeah you might have a dancehall section, R&B and hip-hop, but you could have three hours, four hours of UK music. These people haven’t grown up in that environment, at all." %}
+> Turn on the radio and it sounds like 20 years ago, it doesn’t even sound like ten. Now we’ve got like a generation that don’t even believe that you could have a radio that sounded mostly UK, or they haven’t been to a rave that’s mostly UK. The first things that we went to — [UK] Garage, Grime, all those things — yeah you might have a dancehall section, R&B and hip-hop, but you could have three hours, four hours of UK music. These people haven’t grown up in that environment, at all.
+>
+> — Elijah, [HCPOD: RADIO](https://www.youtube.com/watch?v=rufRdhJTCtE)
 
 There is a US-backed cartel operating in most UK music venues as well. Live Nation UK, a subsidiary of Live Nation Entertainment, has a majority stake in Academy Music Group and Festival Republic. This means US-based control of your local 02 Academy and next trip to Wireless, Leeds and Reading festivals. The magic trick is complete with the US ownership of the major ticketing platform, Ticketmaster, who got to act as middle men for the national scramble to book a place at one of Oasis’ historic comeback gigs this summer. They gladly used this position to drink themselves silly at the well of nostalgia, cynically gouging prices under the guise of “dynamic pricing” in league with the Gallagher brothers. Wouldn’t you know it, another faustian bargain with the dollar for our records.
 
@@ -116,7 +148,9 @@ Despite this grim mess of a picture I’ve gone and painted, there are shoots of
 
 Many will have cottoned on to Duval Timothy after hearing his undeniable handprints all over the distinct sonic palette of Kendrick Lamar’s 2022 album *Mr. Morale & the Big Steppers*. Despite this most titanic of US bring-ins, it’s refreshingly apparent that he is not budging from his local philosophy to appease new audiences. Here’s [a quote taken from a Pitchfork feature](https://pitchfork.com/features/profile/duval-timothy-interview/) shortly after all the K Dot hubbub:
 
-{% include quoteback.html title="There Is Nothing Duval Timothy Can’t Do" author="Jazz Monroe" url="https://pitchfork.com/features/profile/duval-timothy-interview/" text="[Duval Timothy:] I love outsiders: little micro-cultures of musicians who don’t enter the system…It feels like there are less true subcultures now; things get associated with brands. But it’s cool when you hear something from a place." %}
+> [Duval Timothy:] I love outsiders: little micro-cultures of musicians who don’t enter the system…It feels like there are less true subcultures now; things get associated with brands. But it’s cool when you hear something from a place.
+>
+> — Jazz Monroe, [There Is Nothing Duval Timothy Can’t Do](https://pitchfork.com/features/profile/duval-timothy-interview/)
 
 Say it louder for those in the back. FROM A PLACE. The constant in all of this is that the mainstream doesn’t want to let things flourish on their own terms, in the places that it comes from. At this juncture, I have to shout out [Sister Midnight](https://www.sistermidnight.org/), the first community-owned music venue in Lewisham (also the borough I live in). Democratic ownership is an explicit principle at the heart of this project that offers a vision for how cultural production can happen under a fundamentally non-exploitative model. I’m under no illusions that these grassroots initiatives are operating in a whole different league, sport even, in comparison to the centres of power up for discussion here. It’s time to abandon outdated models that have long been rigged, in favour of spending time building a local treasure you and your mates can build community in.
 
@@ -128,6 +162,8 @@ I feel bad for not mentioning at least one feel-good story about “giving back�
 
 As I was writing this, a whole drama played out in UK/US rap that was so perfectly on theme, I couldn’t make it up if I tried. It started with Skepta announcing his belief that UK rappers would win a hypothetical battle versus the Americans. This rallying cry conjured up the sum total of a Joyner Lucas response, followed by a series of rapid-fire disses from Skepta himself, Novelist and Big Zuu. For me, by far the most interesting contribution came from Ambush, who floated over a Preditah flip of Kendrick Lamar’s *Not Like Us* while turning fire directly at his Grime compatriots for giving any oxygen to this debacle. In the process, he summarised why I bothered to write about this stuff better than I ever could:
 
-{% include quoteback.html title="FRIENDLY FIRE" author="Ambush" url="https://www.youtube.com/watch?v=1PXFPl49eBE" text="Really can’t fake this shit anymore, I don’t listen to American shit anymore" %}
+> Really can’t fake this shit anymore, I don’t listen to American shit anymore
+>
+> — Ambush, [FRIENDLY FIRE](https://www.youtube.com/watch?v=1PXFPl49eBE)
 
 It’s overwhelming sometimes, the impossible American headlock. Maybe looking at it through the prism of popular music can act as a template for thinking critically about your own complicated relationship to American imperialism. If you take one thing away from here, just do a stock take of how many times in the day your life is mediated by the US. The art you enjoy making, the friends you love being with, the food you cook and share. Get vexed about it. Then put some work in to reclaim it. Just know that this doesn’t stop at the tunes.

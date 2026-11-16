@@ -9,7 +9,27 @@ feature: 1
 
 *This script was originally performed and published as [an audio essay via the Side Missions project](https://sidemissions.substack.com/p/the-way-to-dj).*
 
-{% include quoteback.html title="Techniques" author="Lao Tzu, translated by Ursula K Le Guin" url="https://archive.org/details/le-guin" text="<div>Can you keep your soul in its body,</div><div>hold fast to the one,</div><div>and so learn to be whole?</div><div>Can you center your energy,</div><div>be soft, tender,</div><div>and so learn to be a baby?</div><div>Can you keep the deep water still and clear,</div><div>so it reflects without blurring?</div><div>Can you love people and run things,</div><div>and do so by not doing?</div><div>Opening, closing the Gate of Heaven,</div><div>can you be like a bird with her nestlings?</div><div>Piercing bright through the cosmos,</div><div>can you know by not knowing?</div><div>To give birth, to nourish,</div><div>to bear and not to own,</div><div>to act and not lay claim,</div><div>to lead and not to rule:</div><div>this is mysterious power.</div>" %}
+> Can you keep your soul in its body,
+> hold fast to the one,
+> and so learn to be whole?
+> Can you center your energy,
+> be soft, tender,
+> and so learn to be a baby?
+> Can you keep the deep water still and clear,
+> so it reflects without blurring?
+> Can you love people and run things,
+> and do so by not doing?
+> Opening, closing the Gate of Heaven,
+> can you be like a bird with her nestlings?
+> Piercing bright through the cosmos,
+> can you know by not knowing?
+> To give birth, to nourish,
+> to bear and not to own,
+> to act and not lay claim,
+> to lead and not to rule:
+> this is mysterious power.
+>
+> — Lao Tzu, translated by Ursula K Le Guin, [Techniques](https://archive.org/details/le-guin)
 
 Have you ever been humbled so utterly that you felt grateful to the bone? I read Ursula K Le Guin’s 1998 translation of Lao Tzu’s two millennia-old (and counting) *Tao Te Ching* for the first time last year and it’s lived alongside me ever since. For the first time in my adult life, I had felt an unshakeable, unclouded and judgement-free communion with an ancient wisdom. With that realisation I felt weightless, my mind enveloped by a beautiful, pink sunrise on a clear summers day. I could reconnect with myself as a 13-year old, listening to Prototype by Andre 3000 on my Sony Discman on repeat and letting the love flow through me. I’m right back there, all over again. The words hit me softly in the chest without judgment or reason, simple childlike wonder allowed to blossom freely. Be like water, find your inner child and keep the soul intact. Fuck what you know, what you think you know and what you think you don’t know. Let it go, let it all go.
 
@@ -25,17 +45,47 @@ Early along this journey I encountered a loosely defined scene made up of labels
 
 (Sidenote: I love the second hand, circular economy of DJ gear. It is a Hodge Podge of 40-something suburban ex-ravers with kids and a mortgage, 20-something serial renter sick of carting around decks gathering dust for a handful of flat back-to-backs with mates. This is the true DJ scene in my eyes, although I haven’t revisited since the Urban Outfitters-driven vinyl revival. Lots of nerds trying to hunt down obscure Japanese, discontinued, consumer electronic products and embarking on a misspent youth or coming to terms with the end of one. Teeming with pathos and weirdos, in the best way).
 
-{% include quoteback.html title="On and off" author="Lao Tzu, translated by Ursula K Le Guin" url="https://archive.org/details/le-guin" text="<div>The Way’s brightness looks like darkness;</div><div>advancing on the Way feels like retreating;</div><div>the plain Way seems hard going.</div><div>The height of power seems a valley;</div><div>the amplest power seems not enough;</div><div>the firmest power seems feeble.</div><div>Perfect whiteness looks dirty.</div><div>The pure and simple looks chaotic.</div>" %}
+> The Way’s brightness looks like darkness;
+> advancing on the Way feels like retreating;
+> the plain Way seems hard going.
+> The height of power seems a valley;
+> the amplest power seems not enough;
+> the firmest power seems feeble.
+> Perfect whiteness looks dirty.
+> The pure and simple looks chaotic.
+>
+> — Lao Tzu, translated by Ursula K Le Guin, [On and off](https://archive.org/details/le-guin)
 
 I took delivery of the Volkswagen camper van of turntables, a pair of pre-loved Technics 1210s, and waved off my shiny CDJs to a new home in Boston, Lincolnshire. I had shifted downwards from automatic, assistive technology to zero bells and whistles in the process. In the cacophony of modern life, we are compelled and prodded towards shiny new technology as a virtue. Sticking with the camper analogy, here I was taking the harder, verging on heretic path from automatic to manual. I can vividly remember fluffing mix after mix, first to my housemates enjoyment and eventually to their despair through thin flat walls. My mates coming down to a UKG-only club night I played at and grimacing as I cleared the dancefloor, all at sea with the new, old gear. In the despair of this thankless grinding, it was something I heard Theo Parrish say that drove me to carry on:
 
-{% include quoteback.html title="Red Bull Music Academy Lecture" author="Theo Parrish" url="https://www.redbullmusicacademy.com/lectures/theo-parrish-3-cheers-for-the-d" text="That’s the other scary thing, it’ll take you the better part of ten years to collect, in my opinion, the amount of vinyl that’s worthy of being presented to other people. Take you, what? A couple minutes? To download somebody’s whole collection. Now the question is, is it worth the convenience? Maybe. But are you missing out on all of the knowledge that goes into looking for those specific records? Specifically, because you know so-and-so played on this record, so-and-so played on that record, are you going to take that time and get your knuckles dusty, and go meet another crazy obsessed individual just like yourself? You got to take that time." %}
+> That’s the other scary thing, it’ll take you the better part of ten years to collect, in my opinion, the amount of vinyl that’s worthy of being presented to other people. Take you, what? A couple minutes? To download somebody’s whole collection. Now the question is, is it worth the convenience? Maybe. But are you missing out on all of the knowledge that goes into looking for those specific records? Specifically, because you know so-and-so played on this record, so-and-so played on that record, are you going to take that time and get your knuckles dusty, and go meet another crazy obsessed individual just like yourself? You got to take that time.
+>
+> — Theo Parrish, [Red Bull Music Academy Lecture](https://www.redbullmusicacademy.com/lectures/theo-parrish-3-cheers-for-the-d)
 
 In the beginning, you experience raves and tunes with a childlike wonder. The uppers play a key role in all this, but there’s more to it than that. Feeling the ebbs and flows of energy in the room through the night, hearing that particular bass-line rattle through your chest properly for the first time, tasting 3am sweat fermented inside 5am sweat. Shouts to [this week’s No Tags pod](https://notagspodcast.substack.com/p/45-what-makes-the-perfect-night-out) for introducing me to Nietzsche’s hot take about music being a way to access and express primordial Dionysian emotions with others. (Is getting spangled with your rave crew praxis?). There are moments on the dance floor I can remember vividly, to this day. Jackmaster (RIP) playing Burial’s *Archangel* at Outlook’s Pula fort (RIP) and Ben UFO spinning Blawan’s *Why They Hide Their Bodies Under My Garage* in the moat that same night. Cooly G unapologetically running *Au Seve* at Gala’s summer 2021 edition, just as nightclubs reopened after COVID restrictions. Mike laying down Pusha T’s *Numbers on the Boards* at Cosmic Slop in Leeds and Scratcha pulling up Frisco’s *Bad ’N’ Clean* at Amsterdam’s Lente Kabinet. The alchemy of factors that bubble up in harmony to create these moments are never an exact science, but it strikes me here and now that it was never a show of technical proficiency that lasted long in the memory (bar *that* [DJ EZ Boilerroom](https://www.youtube.com/watch?v=qQaEWVYuyXU&ab_channel=BoilerRoom)). These moments activated a sublime, latent force of ecstatic oneness by way of understanding on a spiritual level which record begged be shared, which sounds belonged in that moment more than any other. In those moments, you are reminded that 13-year old you losing your shit with a simple Discman in hand had it all figured out.
 
 This is me going around the houses to explain how I have ended up sat here today with a hulking collection of ancient technology, AKA a record collection and decks, alongside a steadfast commitment to keeping a heritage artform alive with them, in my own small way. In the intervening years, I’ve been listening intently to music in third places (record stores and clubs) and quietly assembling hundreds of slabs of acetate that each represent a two-way time capsule that can transport me back to the day I found it and the listener into a discrete sonic world. I don’t want to glamorise the collector aspects, especially the Supreme-style artificial scarcity imposed by limited presses and the consumerist impulse that can subtly barge its way into a hobby built around physical objects. I must steer clear of the ignorant path of hunting someone else’s “holy grail” records. I move towards a deeper knowing of the flawed, contradictory, awkward, deeply personal collection of music that I am but a temporary caretaker for.
 
-{% include quoteback.html title="Soul Food" author="Lao Tzu, translated by Ursula K Le Guin" url="https://archive.org/details/le-guin" text="<div>For being and nonbeing</div><div>arise together;</div><div>hard and easy</div><div>complete each other;</div><div>long and short</div><div>shape each other;</div><div>high and low</div><div>depend on each other;</div><div>note and voice</div><div>make the music together;</div><div>before and after</div><div>follow each other.</div><div>That’s why the wise soul</div><div>does without doing,</div><div>teaches without talking.</div><div>The things of this world</div><div>exist, they are;</div><div>you can’t refuse them.</div>" %}
+> For being and nonbeing
+> arise together;
+> hard and easy
+> complete each other;
+> long and short
+> shape each other;
+> high and low
+> depend on each other;
+> note and voice
+> make the music together;
+> before and after
+> follow each other.
+> That’s why the wise soul
+> does without doing,
+> teaches without talking.
+> The things of this world
+> exist, they are;
+> you can’t refuse them.
+>
+> — Lao Tzu, translated by Ursula K Le Guin, [Soul Food](https://archive.org/details/le-guin)
 
 Inaction, not doing, is central to how I think about DJing generously. It’s vital to remember that the pieces of music you are playing are always doing the donkey work of making people dance. Once you have come to terms with this, you are ready to countenance the fact that in many situations, doing nothing as a DJ is greatness. Let the record play out in full. Do right by Prince and leave the pitch alone. Refrain from [Limmy’s advice and stop taking the bass in and out](https://www.youtube.com/watch?v=OffY08wSUwU&ab_channel=BBCScotland-Comedy) like a pinball wizard. It’s tempting as a DJ to believe that the "value" you are adding is an unknowable formula based on how many times you touched the buttons in a technically inoffensive manner. In many situations, getting out of the music’s way will enhance the level of connection and joy in a room. Tune out the bittersweet sensation of taste and experience, return to that unencumbered and playful approach to sounds like you remember.
 
@@ -47,8 +97,34 @@ In many small yet pernicious ways, convenience kills the flow state. Convenience
 
 I am humbled by how much letting go I have to do. When I am DJing in loving company, an internal battle can pipe up as one side wants to impress upon them my skill and the other wants to be a vessel for the piece of music that aches to be played at that moment. The ego is a MF. Funnily enough, Theo Parrish popped up last week with another nugget of truth that I’ll stick here:
 
-{% include quoteback.html title="Resident Advisor EX.763" author="Theo Parrish" url="https://ra.co/exchange/802" text="So at about five years, you're still dealing with the technical part [of DJing], at ten years you're dealing with the technical part and your so-called sound. At 15 you're dealing with the ego of it all. It's not until much later that you actually start to play for and with people." %}
+> So at about five years, you're still dealing with the technical part [of DJing], at ten years you're dealing with the technical part and your so-called sound. At 15 you're dealing with the ego of it all. It's not until much later that you actually start to play for and with people.
+>
+> — Theo Parrish, [Resident Advisor EX.763](https://ra.co/exchange/802)
 
-{% include quoteback.html title="Three Treasures" author="Lao Tzu, translated by Ursula K Le Guin" url="https://archive.org/details/le-guin" text="<div>Everybody says my way is great</div><div>but improbable.</div><div>All greatness</div><div>is improbable.</div><div>What’s probable</div><div>is tedious and petty.</div><div>I have three treasures.</div><div>I keep and treasure them.</div><div>The first, mercy,</div><div>the second, moderation,</div><div>the third, modesty.</div><div>If you’re merciful you can be brave,</div><div>if you’re moderate you can be generous,</div><div>and if you don’t presume to lead</div><div>you can lead the high and mighty.</div><div>But to be brave without compassion,</div><div>or generous without self-restraint,</div><div>or to take the lead,</div><div>is fatal.</div><div>Compassion wins the battle</div><div>and holds the fort;</div><div>it is the bulwark set</div><div>around those heaven helps.</div>" %}
+> Everybody says my way is great
+> but improbable.
+> All greatness
+> is improbable.
+> What’s probable
+> is tedious and petty.
+> I have three treasures.
+> I keep and treasure them.
+> The first, mercy,
+> the second, moderation,
+> the third, modesty.
+> If you’re merciful you can be brave,
+> if you’re moderate you can be generous,
+> and if you don’t presume to lead
+> you can lead the high and mighty.
+> But to be brave without compassion,
+> or generous without self-restraint,
+> or to take the lead,
+> is fatal.
+> Compassion wins the battle
+> and holds the fort;
+> it is the bulwark set
+> around those heaven helps.
+>
+> — Lao Tzu, translated by Ursula K Le Guin, [Three Treasures](https://archive.org/details/le-guin)
 
 “are you still doing the DJing, Ewen?” I’m just trying to be a vessel for the right record. That’s what I’ll say, next time (before getting rightly told to pull my head out of my arse).
