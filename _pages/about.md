@@ -7,7 +7,7 @@ I'm Ewen and this is my humble gaff on the interwebz. I document the bits and bo
 
 ## Colophon
 
-This website is built with [jekyll](https://jekyllrb.com/) and hosted on [Netlify](https://www.netlify.com/) (except photos and audio files, which use [bunny](https://bunny.net/)). The site design is based on [Mu-An Chiou's](https://muan.co/).
+This website is built with [jekyll](https://jekyllrb.com/) and hosted on [Netlify](https://www.netlify.com/) (except photos and audio files, which use [bunny](https://bunny.net/)). The site design is based on [Mu-An Chiou's](https://muan.co/) and uses [IBM Plex Sans](https://www.ibm.com/plex/), [Charter](https://practicaltypography.com/charter.html) and [ui-monospace](https://www.w3.org/TR/css-fonts-4/#ui-monospace-def) font faces.
 
 My writing, audio recordings and photography is [copyrighted](https://www.gov.uk/copyright). Please ask if you want to reuse any content beyond the bounds of [fair use](https://www.gov.uk/guidance/exceptions-to-copyright#fair-dealing).
 
